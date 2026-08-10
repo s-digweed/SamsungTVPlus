@@ -2,9 +2,8 @@ name: Generate Samsung TV Plus Playlist
 
 on:
   schedule:
-    # Run daily at midnight UTC
     - cron: '0 * * * *'
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
   push:
     branches: [ main ]
     paths: 
@@ -32,12 +31,24 @@ jobs:
     - name: Generate playlist and EPG files
       run: python generate_samsung_tvplus.py
       env:
-        # Configuration via environment variables
-        REGIONS: 'all'  # Change to specific regions like 'us,uk,ca' if needed
-        GROUPS: ''      # Leave empty for all groups, or specify like 'News,Sports'
+        REGIONS: 'all'
+        GROUPS: ''
         INCLUDE_DRM: 'true'
         START_CHNO: '1'
-        SORT_BY: 'chno'  # 'chno' or 'name'
+        SORT_BY: 'chno'
+
+    - name: Backup channels data
+      run: |
+        python3 -c "
+import requests, gzip, json
+from io import BytesIO
+r = requests.get('https://i.mjh.nz/SamsungTVPlus/.channels.json.gz', timeout=30)
+with gzip.GzipFile(fileobj=BytesIO(r.content)) as gz:
+    data = json.loads(gz.read())
+with open('output/channels.json', 'w') as f:
+    json.dump(data, f)
+print('Channels backup saved')
+"
         
     - name: Check if files were generated
       run: |
@@ -51,7 +62,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add output/
         
-        # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
