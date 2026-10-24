@@ -31,6 +31,9 @@ SORT_BY = os.getenv('SORT_BY', 'chno')  # 'chno' or 'name'
 # group-title: 'country' (default) = one group per country, e.g. "United States";
 #              'country_genre' = "United States | News"; 'genre' = Samsung's own genre
 GROUP_BY = os.getenv('GROUP_BY', 'country')
+# The old Google-Script playlist never tagged names with " [DRM]"; adding it would rename
+# those channels and break TiviMate favourites, so it's off by default.
+DRM_NAME_TAG = os.getenv('DRM_NAME_TAG', 'false').lower() == 'true'
 
 REGION_NAMES = {
     'us': 'United States', 'ca': 'Canada', 'gb': 'United Kingdom', 'de': 'Germany',
@@ -281,7 +284,10 @@ def generate_m3u_playlist(data, channels, blocked=frozenset(), choices=None, rep
         name = channel['name']
         logo = channel['logo']
         region = channel.get('_region', '')
-        country = REGION_NAMES.get(region, region.upper() or 'Other')
+        # Same country names as the old Google-Script playlist (Matt's own region names),
+        # so TiviMate favourites / custom groups keep matching. Fallback: our table.
+        country = (data.get('regions', {}).get(region, {}).get('name')
+                   or REGION_NAMES.get(region, region.upper() or 'Other'))
         if GROUP_BY == 'genre':
             group = channel['group']
         elif GROUP_BY == 'country_genre':
@@ -305,7 +311,7 @@ def generate_m3u_playlist(data, channels, blocked=frozenset(), choices=None, rep
 
         # Add DRM indicator if applicable (a swapped-in copy is never DRM)
         drm = bool(channel.get('license_url')) and not swapped
-        if drm:
+        if drm and DRM_NAME_TAG:
             name = f"{name} [DRM]"
         
         # Use original channel number or sequential numbering
