@@ -127,6 +127,9 @@ def _get_text(url):
         return None
 
 
+CENSUS = {}   # id -> (http code, video host), filled by load_geo_blocked()
+
+
 def load_geo_blocked():
     """Samsung channel ids that did NOT return 200 from outside their country."""
     try:
@@ -135,6 +138,9 @@ def load_geo_blocked():
     except FileNotFoundError:
         print(f"  no {GEO_CENSUS} in repo - VPN-free swaps skipped")
         return set()
+    for r in rows:
+        if len(r) > 2:
+            CENSUS[r[0]] = (r[1], r[2])
     return {r[0] for r in rows if len(r) > 1 and r[1] != '200'}
 
 
@@ -155,24 +161,104 @@ def load_swap_sources():
     return plex, pluto, roku
 
 
-def find_swap(channel, sources):
-    """(url, source label) for a VPN-free copy of this channel, or (None, None)."""
+def find_swaps(channel, sources):
+    """Every VPN-free copy of this channel, best source first: [(url, label), ...]."""
     plex, pluto, roku = sources
     key = _norm_name(channel['name'])
+    out = []
     if not key:
-        return None, None
+        return out
     if key in plex:
-        return plex[key], 'Plex'
+        out.append((plex[key], 'Plex'))
     region = channel.get('_region', '')
-    for cc in [ALTPLUTO_REGION.get(region), 'us']:
+    for cc in dict.fromkeys([ALTPLUTO_REGION.get(region), 'us']):
         if cc and key in pluto.get(cc, {}):
-            return pluto[cc][key], f'AltPluto {cc}'
+            out.append((pluto[cc][key], f'AltPluto {cc}'))
+            break
     if key in roku:
-        return roku[key], 'Roku'
-    return None, None
+        out.append((roku[key], 'Roku'))
+    return out
 
 
-def generate_m3u_playlist(data, channels, blocked=frozenset(), sources=None, report=None):
+# ── quality guard: never swap Samsung's picture for a softer one ─────────────
+QUALITY_CACHE = os.path.join(OUTPUT_DIR, 'swap_quality.json')
+QUALITY_TTL_H = 72          # re-measure a stream after this many hours
+SAMSUNG_DEFAULT_H = 1080    # Samsung is FHD; assume 1080 when its playlist doesn't say
+QUALITY_WORKERS = 8
+
+
+def _top_height(url):
+    """Tallest RESOLUTION listed in an HLS master playlist (follows redirects), or None."""
+    try:
+        r = requests.get(url, timeout=TIMEOUT, headers={'User-Agent': 'Mozilla/5.0'})
+        if r.status_code != 200 or '#EXTM3U' not in r.text[:200]:
+            return None
+        hs = [int(h) for h in re.findall(r'RESOLUTION=\d+x(\d+)', r.text)]
+        return max(hs) if hs else None
+    except Exception:
+        return None
+
+
+def pick_swaps(data, channels, blocked, sources):
+    """{channel_id: (url, label)} for swaps that are NOT a quality downgrade,
+    and {channel_id: reason} for blocked channels that keep their Samsung link."""
+    import time
+    from concurrent.futures import ThreadPoolExecutor
+    try:
+        with open(QUALITY_CACHE, encoding='utf-8') as f:
+            qc = json.load(f)
+    except Exception:
+        qc = {}
+    now = time.time()
+    cands = {cid: find_swaps(channels[cid], sources) for cid in blocked if cid in channels}
+    cands = {cid: c for cid, c in cands.items() if c}
+
+    def cache_key(kind, cid, label=''):
+        return f"{kind}|{cid}|{label}"
+    todo = {}
+    for cid, lst in cands.items():
+        todo[cache_key('orig', cid)] = PLAYBACK_URL.format(slug=data['slug'].format(id=cid))
+        for url, label in lst:
+            todo[cache_key('alt', cid, label)] = url
+    todo = {k: u for k, u in todo.items()
+            if k not in qc or now - qc[k].get('t', 0) > QUALITY_TTL_H * 3600}
+    if todo:
+        print(f"  measuring picture quality of {len(todo)} streams ...")
+        with ThreadPoolExecutor(QUALITY_WORKERS) as pool:
+            for k, h in zip(todo, pool.map(_top_height, todo.values())):
+                qc[k] = {'h': h, 't': now}
+    live = set()
+    for cid, lst in cands.items():
+        live.add(cache_key('orig', cid)); live.update(cache_key('alt', cid, l) for _, l in lst)
+    qc = {k: v for k, v in qc.items() if k in live}
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    with open(QUALITY_CACHE, 'w', encoding='utf-8') as f:
+        json.dump(qc, f, separators=(',', ':'))
+
+    chosen, kept = {}, {}
+    for cid in blocked:
+        lst = cands.get(cid)
+        if not lst:
+            kept[cid] = 'no VPN-free copy'
+            continue
+        orig_h = (qc.get(cache_key('orig', cid)) or {}).get('h') or SAMSUNG_DEFAULT_H
+        best_seen = None
+        for url, label in lst:
+            h = (qc.get(cache_key('alt', cid, label)) or {}).get('h')
+            if h and h >= orig_h:
+                chosen[cid] = (url, f'{label} {h}p')
+                break
+            if h and (best_seen is None or h > best_seen):
+                best_seen = h
+        else:
+            kept[cid] = (f'VPN-free copy only {best_seen}p, Samsung {orig_h}p' if best_seen
+                         else 'VPN-free copy, quality unknown')
+    print(f"  quality guard: {len(chosen)} swaps kept, "
+          f"{sum(1 for r in kept.values() if r != 'no VPN-free copy')} skipped as a downgrade/unknown")
+    return chosen, kept
+
+
+def generate_m3u_playlist(data, channels, blocked=frozenset(), choices=None, report=None, status=None):
     """Generate M3U playlist content"""
     lines = ['#EXTM3U']
     
@@ -204,14 +290,19 @@ def generate_m3u_playlist(data, channels, blocked=frozenset(), sources=None, rep
             group = country
         group = group.replace('"', "'")
         url = PLAYBACK_URL.format(slug=data['slug'].format(id=channel_id))
-        swapped = None
-        if sources and channel_id in blocked:
-            alt, label = find_swap(channel, sources)
-            if alt:
-                url, swapped = alt, label
+        swapped, why = None, ''
+        if choices and channel_id in blocked:
+            chosen, kept = choices
+            if channel_id in chosen:
+                url, swapped = chosen[channel_id]
+            else:
+                why = kept.get(channel_id, '')
             if report is not None:
-                report.append((channel.get('_region', ''), channel['name'], label or '-'))
-        
+                report.append((channel.get('_region', ''), channel['name'], swapped or '-', why))
+
+        if status is not None:
+            status[channel_id] = (swapped, channel_id in blocked, why)
+
         # Add DRM indicator if applicable (a swapped-in copy is never DRM)
         drm = bool(channel.get('license_url')) and not swapped
         if drm:
@@ -255,6 +346,43 @@ def save_files(playlist_content, epg_content):
     
     return playlist_path, epg_path
 
+def _host_family(host):
+    for key, label in (('samsungtv.plus', 'Samsung'), ('amagi', 'Amagi'), ('pluto', 'Pluto'),
+                       ('wurl', 'Wurl'), ('cloudfront', 'CloudFront'), ('akamai', 'Akamai'),
+                       ('rakuten', 'Rakuten'), ('its-newid', 'NEW ID'), ('stingray', 'Stingray')):
+        if key in (host or ''):
+            return label
+    return host or '?'
+
+
+def write_status(channels, status):
+    from status_page import update_status
+    regions = {}
+    for cid, ch in channels.items():
+        swapped, is_blocked, why = status.get(cid, (None, False, ''))
+        code, host = CENSUS.get(cid, (None, None))
+        if swapped:
+            st, detail = 'free', f'swapped · {swapped}'
+        elif code == '200':
+            st, detail = 'free', 'plays abroad'
+        elif code is not None:
+            st = 'blocked'
+            detail = f'{_host_family(host)} · {"no answer" if code == "000" else code}'
+            if why and why != 'no VPN-free copy':
+                detail += f' · {why}'
+        else:
+            st, detail = 'unknown', 'not in census yet'
+        if ch.get('license_url') and not swapped:
+            detail += ' · DRM'
+        r = ch.get('_region', '')
+        regions.setdefault(r, {'name': REGION_NAMES.get(r, r.upper()), 'channels': []})['channels'].append(
+            {'id': cid, 'name': ch['name'], 'logo': ch.get('logo', ''), 'group': ch.get('group', ''),
+             'status': st, 'detail': detail})
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    update_status('Samsung TV Plus', regions,
+                  os.path.join(OUTPUT_DIR, 'status.json'), os.path.join(OUTPUT_DIR, 'status_state.json'))
+
+
 def write_swap_report(report, total):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     swapped = [r for r in report if r[2] != '-']
@@ -262,14 +390,17 @@ def write_swap_report(report, total):
     by_src = Counter(r[2].split()[0] for r in swapped)
     lines = [f"Samsung TV Plus VPN-free swaps ({datetime.utcnow():%Y-%m-%d %H:%M} UTC)",
              f"Channels: {total}   geo-blocked (per {GEO_CENSUS}): {len(report)}   "
-             f"swapped to a VPN-free copy: {len(swapped)}   still need VPN: {len(report) - len(swapped)}",
+             f"swapped to a VPN-free copy: {len(swapped)}   still need VPN: {len(report) - len(swapped)} "
+             f"({sum(1 for r in report if r[2] == '-' and r[3].startswith('VPN-free copy'))} of them kept at "
+             f"Samsung quality instead of a softer copy)",
              "By source: " + ", ".join(f"{k} {v}" for k, v in by_src.most_common()), ""]
     for region in REGION_ORDER + sorted({r[0] for r in report} - set(REGION_ORDER)):
         rows = [r for r in report if r[0] == region]
         if not rows:
             continue
         lines.append(f"[{REGION_NAMES.get(region, region.upper())}]  swapped {sum(1 for r in rows if r[2] != '-')}/{len(rows)}")
-        lines += [f"  {'+' if src != '-' else ' '} {name}  ({src})" for _, name, src in sorted(rows, key=lambda r: (r[2] == '-', r[1].lower()))]
+        lines += [f"  {'+' if src != '-' else ' '} {name}  ({src if src != '-' else (why or '-')})"
+                  for _, name, src, why in sorted(rows, key=lambda r: (r[2] == '-', r[1].lower()))]
         lines.append("")
     with open(os.path.join(OUTPUT_DIR, SWAP_REPORT), 'w', encoding='utf-8') as f:
         f.write("\n".join(lines) + "\n")
@@ -356,10 +487,18 @@ def main():
                 sources = load_swap_sources()
 
         # Generate M3U playlist
-        playlist_content = generate_m3u_playlist(data, channels, blocked, sources, report)
+        choices = pick_swaps(data, channels, blocked, sources) if sources else None
+        status = {}
+        playlist_content = generate_m3u_playlist(data, channels, blocked, choices, report, status)
         if sources:
             write_swap_report(report, len(channels))
         
+        # Status page data (output/status.json for status.html)
+        try:
+            write_status(channels, status)
+        except Exception as e:
+            print(f"Status page step failed ({e}) - continuing")
+
         # Get EPG data (use first region or 'all')
         epg_region = regions[0] if len(regions) == 1 and regions[0] != 'all' else 'all'
         epg_content = get_epg_data(epg_region)
