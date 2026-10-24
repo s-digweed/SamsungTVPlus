@@ -8,6 +8,7 @@ on:
     branches: [ main ]
     paths:
       - 'generate_samsung_tvplus.py'
+      - 'status_page.py'
       - '.github/workflows/generate-playlist.yml'
 
 permissions:
