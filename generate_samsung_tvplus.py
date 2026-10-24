@@ -361,8 +361,8 @@ def _host_family(host):
     return host or '?'
 
 
-def write_status(channels, status):
-    from status_page import update_status
+def write_status(channels, status, report=None):
+    from status_page import update_status, epg_stats
     regions = {}
     for cid, ch in channels.items():
         swapped, is_blocked, why = status.get(cid, (None, False, ''))
@@ -385,8 +385,28 @@ def write_status(channels, status):
             {'id': cid, 'name': ch['name'], 'logo': ch.get('logo', ''), 'group': ch.get('group', ''),
              'status': st, 'detail': detail})
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    now = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+    notes = []
+    if CENSUS:
+        notes.append(f"Geo census: {sum(1 for c, _ in CENSUS.values() if c == '200')} of {len(CENSUS)} "
+                     "channels play from abroad as-is")
+    else:
+        notes.append(f"No {GEO_CENSUS} yet - every channel shows as unknown")
+    if report:
+        sw = sum(1 for r in report if r[2] != '-')
+        kept = sum(1 for r in report if r[2] == '-' and r[3].startswith('VPN-free copy'))
+        notes.append(f"{sw} blocked channels swapped to a VPN-free copy; "
+                     f"{kept} kept on Samsung FHD instead of a softer copy")
+    health = {
+        'repo': 's-digweed/SamsungTVPlus', 'every_h': 1,
+        'm3u_updated': now,
+        'epg_updated': now,
+        'notes': notes,
+    }
+    health.update(epg_stats(os.path.join(OUTPUT_DIR, EPG_FILE)))
     update_status('Samsung TV Plus', regions,
-                  os.path.join(OUTPUT_DIR, 'status.json'), os.path.join(OUTPUT_DIR, 'status_state.json'))
+                  os.path.join(OUTPUT_DIR, 'status.json'), os.path.join(OUTPUT_DIR, 'status_state.json'),
+                  health=health)
 
 
 def write_swap_report(report, total):
@@ -499,12 +519,6 @@ def main():
         if sources:
             write_swap_report(report, len(channels))
         
-        # Status page data (output/status.json for status.html)
-        try:
-            write_status(channels, status)
-        except Exception as e:
-            print(f"Status page step failed ({e}) - continuing")
-
         # Get EPG data (use first region or 'all')
         epg_region = regions[0] if len(regions) == 1 and regions[0] != 'all' else 'all'
         epg_content = get_epg_data(epg_region)
@@ -513,6 +527,12 @@ def main():
         # Save files
         playlist_path, epg_path = save_files(playlist_content, epg_content)
         
+        # Status page data (output/status.json for status.html)
+        try:
+            write_status(channels, status, report)
+        except Exception as e:
+            print(f"Status page step failed ({e}) - continuing")
+
         # Generate README
         generate_readme()
         
