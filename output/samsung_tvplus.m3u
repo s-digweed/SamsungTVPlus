@@ -650,7 +650,7 @@ https://amg00627-banijay-amg00627c7-plex-us-1004.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="US19000017A" tvg-name="American Ninja Warrior" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000017A_20261009T160602SQUARE.png" group-title="United States" tvg-chno="2718",American Ninja Warrior
 https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8
 #EXTINF:-1 tvg-id="USBB2300002Q6" tvg-name="Fear Factor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20260421T142906SQUARE.png" group-title="United States" tvg-chno="2720",Fear Factor
-https://jmp2.uk/stvp-USBB2300002Q6
+https://amg00627-banijay-amg00627c2-plex-us-1009.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB3500001O6" tvg-name="The Challenge" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20260421T143005SQUARE.png" group-title="United States" tvg-chno="2722",The Challenge
 https://jmp2.uk/stvp-USBB3500001O6
 #EXTINF:-1 tvg-id="US3900014MX" tvg-name="Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900014MX_20260602T091535SQUARE.png" group-title="United States" tvg-chno="2724",Survivor
@@ -1318,7 +1318,7 @@ https://jmp2.uk/stvp-CABA3700005AD
 #EXTINF:-1 tvg-id="CABB2600006SV" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20260929T044530SQUARE.png" group-title="Canada" tvg-chno="1902",Hell's Kitchen
 https://amg00654-itv-amg00654c1-plex-gb-9797.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-plexgb/playlist.m3u8
 #EXTINF:-1 tvg-id="CA18000010N" tvg-name="Fear Factor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000010N_20260505T062326SQUARE.png" group-title="Canada" tvg-chno="1903",Fear Factor
-https://jmp2.uk/stvp-CA18000010N
+https://amg00627-banijay-amg00627c2-plex-us-1009.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="CA1400014EH" tvg-name="American Pickers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400014EH_20260908T034832SQUARE.png" group-title="Canada" tvg-chno="1904",American Pickers
 https://jmp2.uk/stvp-CA1400014EH
 #EXTINF:-1 tvg-id="CA900009VP" tvg-name="Ax Men" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900009VP_20260616T032238SQUARE.png" group-title="Canada" tvg-chno="1905",Ax Men

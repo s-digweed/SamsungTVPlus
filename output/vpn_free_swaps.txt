@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-10-25 05:26 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 1083   swapped to a VPN-free copy: 295   still need VPN: 788 (229 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 244, Roku 51
+Samsung TV Plus VPN-free swaps (2026-10-25 10:16 UTC)
+Channels: 2662   geo-blocked (per geo_census.tsv): 1083   swapped to a VPN-free copy: 297   still need VPN: 786 (229 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 246, Roku 51
 
-[United States]  swapped 159/472
+[United States]  swapped 160/472
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
   + AccuWeather NOW  (Plex 1080p)
@@ -51,6 +51,7 @@ By source: Plex 244, Roku 51
   + ElectricNOW  (Plex 1080p)
   + Estrella Games  (Plex 1080p)
   + Estrella News  (Plex 1080p)
+  + Fear Factor  (Plex 1080p)
   + FilmRise Western  (Roku 720p)
   + FOX Sports  (Plex 1080p)
   + FreeTV Estelar  (Roku 1080p)
@@ -265,7 +266,6 @@ By source: Plex 244, Roku 51
     Fall Vibes  (no VPN-free copy)
     Family Feud Classic  (VPN-free copy, quality unknown)
     Family Ties  (VPN-free copy, quality unknown)
-    Fear Factor  (no VPN-free copy)
     Fear Zone  (no VPN-free copy)
     Felicity  (no VPN-free copy)
     Field & Stream  (no VPN-free copy)
@@ -476,10 +476,11 @@ By source: Plex 244, Roku 51
     ZooMoo  (no VPN-free copy)
     ¿Qué Culpa Tiene Fatmagül?  (no VPN-free copy)
 
-[Canada]  swapped 16/52
+[Canada]  swapped 17/52
   + CBC News  (Roku 1080p)
   + CTV News  (Plex 1080p)
   + Deal or No Deal  (Plex 1080p)
+  + Fear Factor  (Plex 1080p)
   + Heartland  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
   + INFAST  (Plex 1080p)
@@ -510,7 +511,6 @@ By source: Plex 244, Roku 51
     Death Valley Days  (no VPN-free copy)
     Dhar Mann TV  (no VPN-free copy)
     Donut  (no VPN-free copy)
-    Fear Factor  (no VPN-free copy)
     Grizzy and the Lemmings  (no VPN-free copy)
     Halloween Vibes  (no VPN-free copy)
     Hollywire  (no VPN-free copy)
