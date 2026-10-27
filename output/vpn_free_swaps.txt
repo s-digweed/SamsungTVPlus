@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-10-27 01:11 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 982   swapped to a VPN-free copy: 295   still need VPN: 687 (217 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 247, Roku 48
+Samsung TV Plus VPN-free swaps (2026-10-27 06:56 UTC)
+Channels: 2674   geo-blocked (per geo_census.tsv): 980   swapped to a VPN-free copy: 294   still need VPN: 686 (216 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 246, Roku 48
 
-[United States]  swapped 162/476
+[United States]  swapped 161/476
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -137,7 +137,6 @@ By source: Plex 247, Roku 48
   + Top Gear  (Plex 1080p)
   + Transformers  (Plex 1080p)
   + Triton Poker  (Plex 1080p)
-  + TV One Stars & Stories  (Plex 1080p)
   + UFC  (Plex 1080p)
   + Unsolved Mysteries  (Roku 720p)
   + USA Today  (Plex 1080p)
@@ -452,6 +451,7 @@ By source: Plex 247, Roku 48
     Universal Movies  (no VPN-free copy)
     Universe: Mysteries Solved  (no VPN-free copy)
     Untold Stories of the ER  (VPN-free copy only 720p, Samsung 1080p)
+    Urban TV + Movies  (no VPN-free copy)
     Van Helsing  (no VPN-free copy)
     Vevo '70s  (VPN-free copy, quality unknown)
     Vevo '80s  (VPN-free copy, quality unknown)
@@ -678,7 +678,7 @@ By source: Plex 247, Roku 48
     Top Serien  (no VPN-free copy)
     World of Freesports - WoF  (no VPN-free copy)
     ZDF kocht!  (no VPN-free copy)
-    ZDF zu Hause  (no VPN-free copy)
+    ZDF Zuhause  (no VPN-free copy)
 
 [Austria]  swapped 9/45
   + Beyblade  (Plex 1080p)
@@ -727,7 +727,7 @@ By source: Plex 247, Roku 48
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[Switzerland]  swapped 7/40
+[Switzerland]  swapped 7/39
   + Beyblade  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
   + Metal.Rocks  (Plex 1080p)
@@ -739,7 +739,6 @@ By source: Plex 247, Roku 48
     Aniverse TV  (no VPN-free copy)
     BBC Lifestyle  (VPN-free copy, quality unknown)
     Comedy Central Pluto TV  (VPN-free copy, quality unknown)
-    Echappées belles & co [FR]  (no VPN-free copy)
     H2O & Friends  (no VPN-free copy)
     iCarly  (VPN-free copy, quality unknown)
     Ice Pilots  (VPN-free copy, quality unknown)
@@ -769,7 +768,7 @@ By source: Plex 247, Roku 48
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[France]  swapped 15/46
+[France]  swapped 15/45
   + BBC Earth  (Plex 1080p)
   + Beyblade  (Plex 1080p)
   + Inazuma Eleven  (Plex 1080p)
@@ -790,7 +789,6 @@ By source: Plex 247, Roku 48
     100% Romance  (no VPN-free copy)
     BBC Series  (VPN-free copy, quality unknown)
     Bob l’éponge  (VPN-free copy, quality unknown)
-    Echappées belles & co  (VPN-free copy, quality unknown)
     H2O & Friends  (no VPN-free copy)
     iCarly  (no VPN-free copy)
     L'effet papillon  (no VPN-free copy)
