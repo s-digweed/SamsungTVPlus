@@ -280,7 +280,7 @@ https://jmp2.uk/rok-4ecf313b40975382b983c183bf7d86f0.m3u8
 #EXTINF:-1 tvg-id="USAJ3504547A" tvg-name="The New Detectives" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20260421T133611SQUARE.png" group-title="United States" tvg-chno="1868",The New Detectives
 https://jmp2.uk/stvp-USAJ3504547A
 #EXTINF:-1 tvg-id="US37000036P" tvg-name="TruBlu" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000036P_20250401T004913SQUARE.png" group-title="United States" tvg-chno="1875",TruBlu
-https://jmp2.uk/stvp-US37000036P
+https://trublufactual-trublu-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US2600022YJ" tvg-name="BuzzFeed Unsolved" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600022YJ_20260421T133748SQUARE.png" group-title="United States" tvg-chno="1877",BuzzFeed Unsolved
 https://jmp2.uk/stvp-US2600022YJ
 #EXTINF:-1 tvg-id="US46000120T" tvg-name="TV One Crime & Justice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000120T_20260811T043638SQUARE.png" group-title="United States" tvg-chno="1880",TV One Crime & Justice
@@ -614,7 +614,7 @@ https://jmp2.uk/stvp-US170002608
 #EXTINF:-1 tvg-id="US1900015FR" tvg-name="Anger Management" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900015FR_20260421T143221SQUARE.png" group-title="United States" tvg-chno="2649",Anger Management
 https://amg00353-lionsgatestudio-angermgmt-plex-2wx4p.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD12000038K" tvg-name="Portlandia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20250325T015254SQUARE.png" group-title="United States" tvg-chno="2650",Portlandia
-https://amg00794-amg00794c1-amgplt0291.playout.now3.amagi.tv/playlist.m3u8
+https://amc-portlandia-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US1900012GD" tvg-name="The Conners" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900012GD_20260804T045859SQUARE.png" group-title="United States" tvg-chno="2651",The Conners
 https://amg00353-amg00353c36-plex-us-3909.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-theconners-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="US4100028ZF" tvg-name="According to Jim" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100028ZF_20261023T182348SQUARE.png" group-title="United States" tvg-chno="2652" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",According to Jim
