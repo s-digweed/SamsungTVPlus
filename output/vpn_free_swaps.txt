@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-01 22:30 UTC)
-Channels: 2658   geo-blocked (per geo_census.tsv): 980   swapped to a VPN-free copy: 265   still need VPN: 715 (226 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-02 01:57 UTC)
+Channels: 2658   geo-blocked (per geo_census.tsv): 980   swapped to a VPN-free copy: 265   still need VPN: 715 (225 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 211, Roku 54
 
 [United States]  swapped 153/476
@@ -320,7 +320,7 @@ By source: Plex 211, Roku 54
     Las Vegas  (no VPN-free copy)
     Let's Make A Deal Classic  (no VPN-free copy)
     Life Below Zero  (no VPN-free copy)
-    Lifetime Movie Favorites  (VPN-free copy, quality unknown)
+    Lifetime Movie Favorites  (no VPN-free copy)
     Little House on the Prairie  (VPN-free copy, quality unknown)
     Localish  (no VPN-free copy)
     Locked Up Abroad  (no VPN-free copy)
