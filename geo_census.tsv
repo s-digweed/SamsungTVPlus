@@ -4,6 +4,7 @@ AT1100003X6	403	amg17560-fcb-amg17560c1-samsung-at-9846.playouts.now.amagi.tv	To
 AT1100004SR	200	dqco14bu26p3z.cloudfront.net	Sky News International
 AT11000056T	200	sis-global.prod.samsungtv.plus	Rauchende Colts
 AT1100006NI	200	sis-global.prod.samsungtv.plus	Lucky Dog
+AT11000093N	200	aab9d8e5.wurl.com	ARD Plus Sturm der Liebe
 AT1100010IZ	200	f539e856.wurl.com	ARD Plus Zoo
 AT12000011L	403	amg00771-amg00771c2-samsung-at-3197.playouts.now.amagi.tv	Free Comedy
 AT1200002LI	403	amg00771-amg00771c22-amgplt0009.playout.now3.amagi.tv	H2O & Friends
@@ -38,6 +39,7 @@ AT23000017K	200	sis-global.prod.samsungtv.plus	Deluxe Dance By Kontor
 AT230000238	403	amg00609-amg00609c5-samsung-at-3735.playouts.now.amagi.tv	Top Sci-Fi
 AT2300003IC	403	amg01796-amg01796c7-samsung-at-4260.playouts.now.amagi.tv	Beyblade
 AT2400001WV	200	playout.pegasus.funkechannels.de	DDR TV-Archiv
+AT2500001DQ	200	7b9d652a.wurl.com	Destination 360
 AT2600002KW	200	euronews-live-deu-at.fast.rakuten.tv	Euronews LIVE
 AT260000326	200	top-movies-rakuten-tv-at.fast.rakuten.tv	Top Filme - Rakuten TV
 AT2600004LH	200	drama-rakuten-tv-at.fast.rakuten.tv	Drama Filme - Rakuten TV
@@ -159,9 +161,9 @@ ATBD190000101	200	d1k2s17sgkoemp.cloudfront.net	CNN Headlines International
 ATBD2300001PY	403	amg01306-sport1-amg01306c1-samsung-at-1155.playouts.now.amagi.tv	Sport 1 Motor
 ATBD2500001A8	200	d2hnw7z452pvfw.cloudfront.net	PR1DE free
 ATBD2600001QK	403	cdn-uw2-prod.tsv2.amagi.tv	Hell's Kitchen
-ATBD2600009FE	200	d2qv25lmf01rfq.cloudfront.net	More than Sports TV
-ATBD2600010EC	200	d19g3h9mwhm9ub.cloudfront.net	Motorvision Classic
-ATBD2600011EO	200	d3hjdf2xlb1h3b.cloudfront.net	Motorvision
+ATBD2600009FE	200	sis-global.prod.samsungtv.plus	More than Sports TV
+ATBD2600010EC	200	sis-global.prod.samsungtv.plus	Motorvision Classic
+ATBD2600011EO	200	sis-global.prod.samsungtv.plus	Motorvision
 ATBD26000124P	200	d30q89nbu2cn1m.cloudfront.net	Scooore
 ATBD2700001KY	200	2d565ebf.wurl.com	Terra Mater WILD
 ATBD2700004VR	200	2b9ef4ea231341d6a72bf75aa5c12dc3.mediatailor.us-east-1.amazonaws.com	Royalworld - Adel & Dynastien
@@ -186,11 +188,11 @@ CA13000084U	200	d3fwshybl2hh6.cloudfront.net	PBS Travel
 CA1400001PI	403	sis-global.prod.samsungtv.plus	MLB Channel
 CA14000028T	200	d1ieuq3tbxyiyt.cloudfront.net	CTV @ Home
 CA1400003R3	200	d3pnbvng3bx2nj.cloudfront.net	TSN The Ocho
-CA1400004AE	403	sis-global.prod.samsungtv.plus	CTV News
+CA1400004AE	200	sis-global.prod.samsungtv.plus	CTV News
 CA1400005SO	200	dvsxtm7eutazd.cloudfront.net	CTV Laughs
 CA1400006BZ	200	d29qczaufx5vc3.cloudfront.net	Noovo Crime
 CA1400007U9	403	sis-global.prod.samsungtv.plus	Corner Gas Channel by CTV
-CA1400008DK	200	dk4ogs46bjxcw.cloudfront.net	Noovo cinéma
+CA1400008DK	400	sis-global.prod.samsungtv.plus	Noovo cinéma
 CA1400009E5	200	d2bwrhyl8hu5st.cloudfront.net	The Mightiest by CTV
 CA14000105P	200	dhjd4u7ds8bgi.cloudfront.net	CTV Gridlock
 CA14000121V	200	d1jy8qdg9df0z8.cloudfront.net	Fall Vibes
@@ -210,7 +212,7 @@ CA1700003M0	200	d34k9rat0ay5qi.cloudfront.net	CJ ENM K-Food & Travel
 CA1700004QS	200	ads.its-newid.net	K-Drama+
 CA1700005X1	200	d1udjar903d885.cloudfront.net	Mr. Bean Animated
 CA1700006FC	200	d3gghimt7ykhe7.cloudfront.net	BizaarTV
-CA1700007YN	200	sis-global.prod.samsungtv.plus	Donut
+CA1700007YN	403	sis-global.prod.samsungtv.plus	Donut
 CA18000010N	403	sis-global.prod.samsungtv.plus	Fear Factor
 CA18000032W	200	sis-global.prod.samsungtv.plus	NEW KMOVIES
 CA1800004L7	200	d6r160w0yf86f.cloudfront.net	NEW KPOP
@@ -228,7 +230,7 @@ CA2000010EM	200	d3f5hheo9kamdn.cloudfront.net	The Try Guys
 CA210000188	200	d3u8qn528mp9sf.cloudfront.net	Blippi
 CA2100002KI	403	sis-global.prod.samsungtv.plus	Dhar Mann TV
 CA210000317	200	d1kqzpbno2mwfo.cloudfront.net	MeatEater
-CA2100004VD	200	dqn6sk9nebmji.cloudfront.net	Challenge Accepted
+CA2100004VD	403	sis-global.prod.samsungtv.plus	Challenge Accepted
 CA2100005JX	200	d1loh2fe3n4baq.cloudfront.net	TheSorryGirls TV
 CA21000060M	200	d3pov6qn4lcb1i.cloudfront.net	Smosh
 CA2100007GY	403	sis-global.prod.samsungtv.plus	Brave Wilderness
@@ -237,8 +239,8 @@ CA2300001VX	403	sis-global.prod.samsungtv.plus	Grizzy and the Lemmings
 CA2400001LE	200	d233musye2hthd.cloudfront.net	Team Liquid
 CA2400002V9	403	sis-global.prod.samsungtv.plus	Business Insider
 CA2600001D9	200	d8lq9n6k49jph.cloudfront.net	One Championship TV
-CA2600002F9	200	d3ee1jkymm8zcr.cloudfront.net	BuzzFeed Tasty
-CA2600003M4	200	d3v4hohha4u8xg.cloudfront.net	BuzzFeed Unsolved
+CA2600002F9	403	sis-global.prod.samsungtv.plus	BuzzFeed Tasty
+CA2600003M4	403	sis-global.prod.samsungtv.plus	BuzzFeed Unsolved
 CA2600004XW	200	dba775nuzxyu4.cloudfront.net	CraftsyTV
 CA2600005VD	200	dixzk847ajj2t.cloudfront.net	In Depth with Graham Bensinger
 CA26000068X	403	sis-global.prod.samsungtv.plus	Silent Witness & New Tricks
@@ -264,7 +266,7 @@ CA3100001IB	200	d31fo9ud49za7k.cloudfront.net	MrBeast
 CA31000029Z	200	sis-global.prod.samsungtv.plus	Scare Tactics
 CA3100004TG	403	sis-global.prod.samsungtv.plus	Halloween Vibes
 CA3400002KP	200	d2t1k24r06jdq7.cloudfront.net	Dog Whisperer
-CA34000033Z	200	d3k6wtqywdv8ud.cloudfront.net	Hearties
+CA34000033Z	400	sis-global.prod.samsungtv.plus	Hearties
 CA3400004MA	200	d3oo71s1yoendy.cloudfront.net	ducktv
 CA34000054K	200	d1vhbvi6k3g27q.cloudfront.net	Dungeons & Dragons: Adventures
 CA35000025N	200	dyibab6iv1p6i.cloudfront.net	CTV Gets Real
@@ -272,13 +274,14 @@ CA3500003OX	200	d34nyzwirex7lo.cloudfront.net	PFL
 CA35000044I	200	dt6ao5cnwirba.cloudfront.net	FilmRise Horror
 CA3500005NS	200	d4eg0ibr16eq6.cloudfront.net	FilmRise Canadien
 CA3500006PD	200	d2iek84wcjyy4m.cloudfront.net	GET Comedy
-CA35000078O	200	d2jrqs4valiyqi.cloudfront.net	Cinevault Westerns
+CA35000078O	200	sis-global.prod.samsungtv.plus	Cinevault Westerns
 CA36000019W	403	sis-global.prod.samsungtv.plus	The NBA Channel
 CA3900001GT	200	d3w1mnzmsi01ry.cloudfront.net	RYZ Sports Network
 CA3900002PM	200	d1rj53ajbds2mt.cloudfront.net	CJ ENM K-POP
 CA390001798	403	sis-global.prod.samsungtv.plus	The Judge Judy Channel
 CA3900025I5	403	sis-global.prod.samsungtv.plus	48 Hours
 CA390002621	403	sis-global.prod.samsungtv.plus	CBS News 24/7
+CA3900028KU	200	sis-global.prod.samsungtv.plus	Barney and Friends
 CA40000064R	200	d28yxs3rgz4ad8.cloudfront.net	Letterman TV
 CA4000007K0	200	d35u93rt36w6wf.cloudfront.net	BuzzFeed Celeb
 CA4000013R	403	sis-global.prod.samsungtv.plus	Stingray Holidayscapes
@@ -292,7 +295,7 @@ CA4100007AK	403	sis-global.prod.samsungtv.plus	AFV with Alfonso Ribeiro
 CA41000088Y	200	d2iyn1sxffdckp.cloudfront.net	America’s Funniest Home Videos
 CA4300001YU	403	sis-global.prod.samsungtv.plus	Series K Heart
 CA4400001O0	200	dd9a59047ofqy.cloudfront.net	Game & Fish TV
-CA44000025P	200	dvune39qv1dhh.cloudfront.net	Grjngo
+CA44000025P	400	sis-global.prod.samsungtv.plus	Grjngo
 CA4400004GC	403	sis-global.prod.samsungtv.plus	Series K Edge
 CA4400005ZN	403	sis-global.prod.samsungtv.plus	Series K Legacy
 CA4500001CL	200	d1j8u7pzvrc822.cloudfront.net	The Martha Stewart Channel
@@ -350,15 +353,15 @@ CA900005B8	200	d2o6oq49rxrqec.cloudfront.net	Dance Moms
 CA900006X7	200	d2zdbe2eg8yc7r.cloudfront.net	Dog the Bounty Hunter
 CA900007X0	200	d2mbtxn6066ad2.cloudfront.net	Little Women: LA
 CA900008L6	200	d2h52m59r5dfpp.cloudfront.net	Flipping Nation
-CA900009VP	200	dof0jpx50k8u3.cloudfront.net	Ax Men
+CA900009VP	200	sis-global.prod.samsungtv.plus	Ax Men
 CA9000103C	200	d25r5n7ckl351s.cloudfront.net	Tiny House Nation
 CA9000118M	200	d1u7q2k4x6shbg.cloudfront.net	Duck Dynasty
 CAAJ1700002PA	200	d35ndmzqbkabyk.cloudfront.net	The Asylum
-CAAJ27000079E	200	d2gw6v3modwqqi.cloudfront.net	FilmRise True Crime
+CAAJ27000079E	403	sis-global.prod.samsungtv.plus	FilmRise True Crime
 CAAJ2700008QA	200	d2tv4k5moji5m7.cloudfront.net	FilmRise Classic TV
 CAAJ2700011IF	200	d1si3n1st4nkgb.cloudfront.net	NBC News NOW
-CAAJ2700012PP	200	dxxo6hg8ul703.cloudfront.net	Forensic Files
-CAAJ27000135F	200	d1tbda9p86v4of.cloudfront.net	Unsolved Mysteries
+CAAJ2700012PP	403	sis-global.prod.samsungtv.plus	Forensic Files
+CAAJ27000135F	403	sis-global.prod.samsungtv.plus	Unsolved Mysteries
 CAAJ2700014EE	200	dsbrl0ravkyga.cloudfront.net	FilmRise Action
 CAAJ27000159K	200	d37ics7ux349fy.cloudfront.net	FilmRise Western
 CAAJ2700027GW	200	dk4ihi7kn1rqu.cloudfront.net	Game Show Central
@@ -375,7 +378,7 @@ CAAJ3400013EH	200	a62dfa89365b4019a6af9310e199d004.mediatailor.us-east-1.amazona
 CAAJ34000158F	200	9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com	MHz Now
 CAAJ3400016J9	200	d3gml72xi9d0g0.cloudfront.net	The Design Network
 CAAJ3400017AE	200	d2vmei8ho9s9hz.cloudfront.net	MagellanTV Wildest
-CAAJ40000077N	200	d11cvq0685nqpo.cloudfront.net	FilmRise Free Movies
+CAAJ40000077N	403	sis-global.prod.samsungtv.plus	FilmRise Free Movies
 CABA3700001DB	200	d36ldtf7q78ajh.cloudfront.net	Always Funny Videos
 CABA3700002ML	200	d36coxd3lbz4i6.cloudfront.net	Baywatch
 CABA3700003NA	200	dbcn6sz7b99tq.cloudfront.net	Moonbug
@@ -397,13 +400,13 @@ CABB2600004RZ	200	d3obzuquz8t058.cloudfront.net	XITE Just Chill
 CABB26000054K	200	d1km5mimggxbs8.cloudfront.net	XITE Rock x Metal
 CABB2600006SV	403	sis-global.prod.samsungtv.plus	Hell's Kitchen
 CABB26000082J	200	d3191hwu0zky.cloudfront.net	21 Jump Street
-CABB2600009WE	200	d3belfu2ql3wrk.cloudfront.net	Dr. G: Medical Examiner
+CABB2600009WE	403	sis-global.prod.samsungtv.plus	Dr. G: Medical Examiner
 CABB2600017ZU	200	d1ufum91jeaftb.cloudfront.net	XITE 80s Flashback
 CABB2600018T4	200	d2pfujqolhtjmo.cloudfront.net	XITE 90s Throwback
 CABB260002016	403	sis-global.prod.samsungtv.plus	Fireplace Vibes
 CABC2300001X9	200	dlkztgkqn0xho.cloudfront.net	The Jack Hanna Channel
 CABC2300002VB	200	dx4dncxv9yow8.cloudfront.net	Xplore
-CABC23000035R	200	sis-global.prod.samsungtv.plus	Hollywire
+CABC23000035R	403	sis-global.prod.samsungtv.plus	Hollywire
 CABC2300004A4	403	sis-global.prod.samsungtv.plus	Top Gear
 CABC23000056U	403	sis-global.prod.samsungtv.plus	Midsomer Murders
 CABC2300006OP	200	d19y1nf2t19re.cloudfront.net	NHRA TV
@@ -417,22 +420,22 @@ CABC2300017XX	200	d5icxnk3z9o1i.cloudfront.net	HappyKids
 CABC23000189A	403	sis-global.prod.samsungtv.plus	Cops
 CABC2300019UD	200	d1m3onyj8k8btx.cloudfront.net	Documentary+
 CABC2300021DQ	200	df69zpaaxxov7.cloudfront.net	Supermarket Sweep
-CABC23000223U	200	d10rea44gpjdtw.cloudfront.net	The Weather Network
+CABC23000223U	403	sis-global.prod.samsungtv.plus	The Weather Network
 CABC5200004AI	200	d3pzprwrdmw7w4.cloudfront.net	Strawberry Shortcake
 CABC5200006AL	200	d2mrtykz8a7ev4.cloudfront.net	Bon Appétit
 CABC5200008Q6	200	d3kl6k4rl5k1y2.cloudfront.net	Divorce Court
-CABC5200009HX	200	d2d2uj90xnivym.cloudfront.net	Architectural Digest
+CABC5200009HX	403	sis-global.prod.samsungtv.plus	Architectural Digest
 CABC52000165E	403	sis-global.prod.samsungtv.plus	Vevo Country
 CABC52000180Z	403	sis-global.prod.samsungtv.plus	Vevo Pop
 CABC5200019FS	200	sis-global.prod.samsungtv.plus	Degrassi
 CABC5200020WJ	200	d12nr4pgtg3ddm.cloudfront.net	Comedy Dynamics
 CABC5200021HG	200	d32ado9k390wwh.cloudfront.net	Midnight Pulp
 CABC5200022N1	200	d2v5ssevvg9d54.cloudfront.net	Homeful
-CABD1200001SY	200	d1wii4f144b3xj.cloudfront.net	Gravitas Movies
+CABD1200001SY	200	sis-global.prod.samsungtv.plus	Gravitas Movies
 CABD1200002T9	200	d92ck1f80azs4.cloudfront.net	Tastemade
-CABD1200005AV	200	d2nucu7zpxl39s.cloudfront.net	Antiques Roadshow
+CABD1200005AV	200	sis-global.prod.samsungtv.plus	Antiques Roadshow
 CABD120000693	200	db9ou8m68ug2t.cloudfront.net	pocket.watch Game-On
-CABD1200007HY	200	d3oamiwgsms6v5.cloudfront.net	True Crime Now
+CABD1200007HY	200	sis-global.prod.samsungtv.plus	True Crime Now
 CABD1200008JG	200	dtjdiffefl00u.cloudfront.net	FIFA+
 CABD1200010LE	403	sis-global.prod.samsungtv.plus	BBC Food
 CABD1200012B8	403	sis-global.prod.samsungtv.plus	BBC Home & Garden
@@ -469,6 +472,7 @@ CH1100002FH	403	amg17560-fcb-amg17560c1-samsung-ch-9848.playouts.now.amagi.tv	To
 CH1100003IR	200	sis-global.prod.samsungtv.plus	Beverly Hills 90210
 CH1100004ZG	200	sis-global.prod.samsungtv.plus	Rauchende Colts
 CH1100005H6	200	sis-global.prod.samsungtv.plus	Lucky Dog
+CH1100007FL	200	a6fc779a.wurl.com	ARD Plus Sturm der Liebe
 CH1100008WA	200	9eace6ab.wurl.com	ARD Plus Zoo
 CH120000128	403	amg00771-amg00771c22-amgplt0010.playout.now3.amagi.tv	H2O & Friends
 CH1300001XI	200	sis-global.prod.samsungtv.plus	Fix&Foxi und Freunde
@@ -498,6 +502,7 @@ CH2300002MI	200	c18363a6aec8400f85e9a331a77f6343.mediatailor.us-east-1.amazonaws
 CH23000031M	403	amg00609-amg00609c5-samsung-ch-3736.playouts.now.amagi.tv	Top Sci-Fi
 CH230000401	403	amg01796-amg01796c7-samsung-ch-4261.playouts.now.amagi.tv	Beyblade
 CH24000017D	200	sis-global.prod.samsungtv.plus	StoryZoo & Friends
+CH2500001UG	200	b444c5ce.wurl.com	Destination 360
 CH2600001UH	200	comedy-rakuten-tv-ch.fast.rakuten.tv	Komödien - Rakuten TV
 CH2600002VE	200	drama-rakuten-tv-ch.fast.rakuten.tv	Drama Filme - Rakuten TV
 CH26000037F	200	euronews-live-deu-ch.fast.rakuten.tv	Euronews LIVE
@@ -615,7 +620,6 @@ CHBB49000023B	200	cdn-uw2-prod.tsv2.amagi.tv	Y'a que la vérité qui compte [FR]
 CHBC3500001NJ	200	cdn-uw2-prod.tsv2.amagi.tv	Enquêtes de Choc [FR]
 CHBC3500004YJ	200	cdn-uw2-prod.tsv2.amagi.tv	Filmgold
 CHBC40000011Y	200	cdn-uw2-prod.tsv2.amagi.tv	The Wicked Tuna Channel
-CHBC40000027S	403	amg02232-botravail-amg02232c1-samsung-ch-309.playouts.now.amagi.tv	Echappées belles & co [FR]
 CHBC4000003K9	200	cdn-uw2-prod.tsv2.amagi.tv	Homicide [FR]
 CHBC40000040J	200	cdn-uw2-prod.tsv2.amagi.tv	wedotv Big Stories [IT]
 CHBC4000005PW	403	amg00609-palatinmedia-amg00609c1-samsung-ch-469.playouts.now.amagi.tv	Naruto
@@ -634,9 +638,9 @@ CHBD200004J8	200	sis-global.prod.samsungtv.plus	Les filles d'à côté [FR]
 CHBD2300001ZB	403	amg01306-sport1-amg01306c1-samsung-ch-1154.playouts.now.amagi.tv	Sport 1 Motor
 CHBD2500001SY	200	d6ecngpk0yam1.cloudfront.net	PR1DE free
 CHBD26000017A	403	cdn-uw2-prod.tsv2.amagi.tv	Hell's Kitchen
-CHBD2600011YG	200	d1rcse9nds2xmx.cloudfront.net	More than Sports TV
-CHBD2600012Y6	200	d374759qtgexrz.cloudfront.net	Motorvision Classic
-CHBD26000130C	200	d1qg7obk2en76i.cloudfront.net	Motorvision
+CHBD2600011YG	200	sis-global.prod.samsungtv.plus	More than Sports TV
+CHBD2600012Y6	200	sis-global.prod.samsungtv.plus	Motorvision Classic
+CHBD26000130C	200	sis-global.prod.samsungtv.plus	Motorvision
 CHBD2600014C0	200	d2ab6sohoojpyu.cloudfront.net	Scooore
 CHBD27000011N	200	84b35cae.wurl.com	Zee One
 CHBD2700002B7	200	cde53845.wurl.com	Terra Mater WILD
@@ -648,7 +652,7 @@ CHBD39000015L	403	amg00771-kochmedia-amg00771c1-samsung-ch-1178.playouts.now.ama
 CHBD4700001DY	403	amg02757-amg02757c3-samsung-ch-2454.playouts.now.amagi.tv	LooLoo Kids
 CHBD5000001T0	403	amg01866-mmagfast-amg01866c3-samsung-ch-2126.playouts.now.amagi.tv	World of Freesports - WoF
 CHBD5000002CB	403	amg00609-palatinmedia-amg00609c4-samsung-ch-2121.playouts.now.amagi.tv	Top Filme
-CHBD5100001EF	200	d2obt5dq3rd175.cloudfront.net	ADN [FR]
+CHBD5100001EF	200	sis-global.prod.samsungtv.plus	ADN [FR]
 CHBD600003EI	200	cdn-uw2-prod.tsv2.amagi.tv	Film Al Femminile - Wedo Movies [IT]
 CHBD800001D0	200	d3508xo7u38fy2.cloudfront.net	CNN
 DE1000001CT	200	playout.pegasus.funkechannels.de	Herzfrequenz
@@ -660,9 +664,10 @@ DE1200001JW	403	amg00771-amg00771c2-samsung-de-3196.playouts.now.amagi.tv	Free C
 DE1200002GK	200	sis-global.prod.samsungtv.plus	Beverly Hills 90210
 DE1200003XA	200	sis-global.prod.samsungtv.plus	Rauchende Colts
 DE1200004EZ	200	sis-global.prod.samsungtv.plus	Lucky Dog
+DE1200007CE	200	7ac3e785.wurl.com	ARD Plus Sturm der Liebe
 DE1200008U3	200	95687afe.wurl.com	ARD Plus Zoo
 DE1200009JX	403	amg00069-amg00069c6-amgplt0008.playout.now3.amagi.tv	ZDF kocht!
-DE12000100M	403	amg00771-amg00771c21-amgplt0008.playout.now3.amagi.tv	ZDF zu Hause
+DE12000100M	403	amg00771-amg00771c21-amgplt0008.playout.now3.amagi.tv	ZDF Zuhause
 DE1200011HC	403	amg00771-amg00771c22-amgplt0008.playout.now3.amagi.tv	H2O & Friends
 DE1300001XL	403	amg01243-xite-amg01243c30-samsung-de-7815.playouts.now.amagi.tv	XITE R&B Classic Jams
 DE1300002E8	200	sis-global.prod.samsungtv.plus	Fix&Foxi und Freunde
@@ -702,6 +707,7 @@ DE2300002KX	403	amg00609-amg00609c5-samsung-de-3738.playouts.now.amagi.tv	Top Sc
 DE2400001DK	200	playout.pegasus.funkechannels.de	DDR TV-Archiv
 DE2400002VA	401	amg00793-amg00793c14-samsung-de-4055.playouts.now.amagi.tv	Top Gear
 DE2500001DO	200	sis-global.prod.samsungtv.plus	Cool Summer Channel
+DE2500002B5	200	87fe2ec8.wurl.com	Destination 360
 DE2600003TR	200	euronews-live-deu-de.fast.rakuten.tv	Euronews LIVE
 DE2600004U3	200	crime-rakuten-tv-de.fast.rakuten.tv	Crime Serien - Rakuten TV
 DE2600005XA	200	action-rakuten-tv-de.fast.rakuten.tv	Actionfilme - Rakuten TV
@@ -847,9 +853,9 @@ DEBD19000012M	200	du6zy613vobd4.cloudfront.net	CNN Headlines International
 DEBD1900002CB	200	sis-global.prod.samsungtv.plus	Crime Time
 DEBD2300001ND	403	amg01306-sport1-amg01306c1-samsung-de-1153.playouts.now.amagi.tv	Sport 1 Motor
 DEBD2400001PC	200	d3vgxdp9112tbs.cloudfront.net	PR1DE free
-DEBD26000034M	200	dbspaydiirr7g.cloudfront.net	More than Sports TV
-DEBD2600004U7	200	d1535h7tsx4tzc.cloudfront.net	Motorvision Classic
-DEBD2600005U6	200	d6t5nax9n8hfb.cloudfront.net	Motorvision
+DEBD26000034M	200	sis-global.prod.samsungtv.plus	More than Sports TV
+DEBD2600004U7	200	sis-global.prod.samsungtv.plus	Motorvision Classic
+DEBD2600005U6	200	sis-global.prod.samsungtv.plus	Motorvision
 DEBD260000692	200	d1hwabkwg5lo74.cloudfront.net	Scooore
 DEBD2700001ID	200	94d5e87cebb24d4fba51ef804403d264.mediatailor.us-east-1.amazonaws.com	DEFA TV
 DEBD2700003W5	200	db827e6b60ab4e09b8769cc0c96d286c.mediatailor.us-east-1.amazonaws.com	Royalworld - Adel & Dynastien
@@ -935,6 +941,7 @@ ES300030ZT	200	sis-global.prod.samsungtv.plus	Telemadrid
 ES300033TI	401	amg01821-amg01821c29-samsung-es-6723.playouts.now.amagi.tv	Viajes & Sabores
 ES300034BT	401	amg01821-amg01821c27-samsung-es-6724.playouts.now.amagi.tv	Actualidad 360
 ES31000013F	200	amg27604-amg27604c1-amgplt0006.playout.now3.amagi.tv	INTER 24/7
+ES3100002GL	200	e9637e55.wurl.com	Terra Mater Wild
 ES3200001F1	401	amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv	BBC Earth
 ES32000027M	403	amg01821-amg01821c28-samsung-es-5503.playouts.now.amagi.tv	CLIPS don't lie
 ES3200003OC	403	sis-global.prod.samsungtv.plus	DFB Play TV
@@ -950,7 +957,7 @@ ES3400002PY	200	sis-global.prod.samsungtv.plus	Surf Channel
 ES34000039I	403	amg00803-amg00803c3-samsung-es-4975.playouts.now.amagi.tv	CNN en Español
 ES3400004SS	200	dqco14bu26p3z.cloudfront.net	Sky News International
 ES3500003JZ	200	sis-global.prod.samsungtv.plus	Real Madrid TV
-ES3600001Y7	200	dr5brv21nqxbh.cloudfront.net	Rebelde
+ES3600001Y7	200	sis-global.prod.samsungtv.plus	Rebelde
 ES3800001V1	200	sis-global.prod.samsungtv.plus	Red Bull TV
 ES3800002V5	200	d1dkgyo6ksyej1.cloudfront.net	Dhar Mann TV
 ES3900001QG	200	d3m3qrw3jevegt.cloudfront.net	CJ ENM K-POP
@@ -958,8 +965,8 @@ ES400002P5	200	d20rtuj9lomnbi.cloudfront.net	Cuéntame cómo pasó
 ES4100001XD	200	d2g6h6r2m7uubp.cloudfront.net	Mark Rober TV
 ES4100002WB	200	thriller-rakuten-tv-es.fast.rakuten.tv	Halloween - Rakuten TV
 ES4200001MR	403	amg00353-amg00353c73-samsung-es-10409.playouts.now.amagi.tv	Moviesphere
-ES42000022E	200	d2s9yhoksj1gxd.cloudfront.net	Xataka
-ES4300001K6	200	dtzf47glr2il9.cloudfront.net	Chicas Guapas TV
+ES42000022E	200	sis-global.prod.samsungtv.plus	Xataka
+ES4300001K6	200	sis-global.prod.samsungtv.plus	Chicas Guapas TV
 ES4300004JP	200	sis-global.prod.samsungtv.plus	Rugby Challenge
 ES4300006I4	403	amg01821-amg01821c37-samsung-es-10626.playouts.now.amagi.tv	El Mueble
 ES4400001N3	200	d1si3n1st4nkgb.cloudfront.net	Las 3 Mellizas
@@ -972,10 +979,10 @@ ES4700001VS	200	d2qh3gh0k5vp3v.cloudfront.net	2M
 ES4800002OZ	200	d2zq3jgz2yetok.cloudfront.net	Caillou
 ES5000001CS	200	amg02757-amg02757c6-samsung-es-6836.playouts.now.amagi.tv	LooLoo Kids
 ES500004NO	200	sci-fi-rakuten-tv-es.fast.rakuten.tv	Sci-Fi - Rakuten TV
-ES500005BP	200	djpkijcsi04ot.cloudfront.net	Águila Roja
-ES500008IU	200	d1q8plxhyjy788.cloudfront.net	FreeTV Clásico
+ES500005BP	200	sis-global.prod.samsungtv.plus	Águila Roja
+ES500008IU	200	sis-global.prod.samsungtv.plus	FreeTV Clásico
 ES51000017V	200	dupr7fgg2kr7x.cloudfront.net	Rally.TV FAST+
-ES700004C8	200	d1k8d66ey1ll85.cloudfront.net	Runtime Familia
+ES700004C8	200	sis-global.prod.samsungtv.plus	Runtime Familia
 ES7000056Z	403	amg01796-amg01796c18-samsung-es-7081.playouts.now.amagi.tv	Yu-Gi-Oh!
 ES700006IP	403	amg30785-amg30785c1-amgplt0006.playout.now3.amagi.tv	Rolling Stones Takeover
 ES7000088K	200	sis-global.prod.samsungtv.plus	Space Live
@@ -1019,41 +1026,41 @@ ESBC2700012RP	200	sis-global.prod.samsungtv.plus	Cine Feel Good – Verdi TV
 ESBC3500002PW	200	d1vhgfbxsl1eqy.cloudfront.net	Ideas en 5 Minutos
 ESBC39000033J	200	sis-global.prod.samsungtv.plus	El País
 ESBC3900004ED	200	sis-global.prod.samsungtv.plus	Pocoyó
-ESBC400001QQ	200	d3vx6kwn4pkd9t.cloudfront.net	Runtime
+ESBC400001QQ	200	sis-global.prod.samsungtv.plus	Runtime
 ESBC40000248	200	d1si3n1st4nkgb.cloudfront.net	Action Movie Channel
-ESBC400003YM	200	d1si3n1st4nkgb.cloudfront.net	NBC News NOW
+ESBC400003YM	200	d176x1zsz6v6uq.cloudfront.net	NBC News NOW
 ESBC4100001NZ	200	sis-global.prod.samsungtv.plus	La 1
 ESBC4100002AG	403	sis-global.prod.samsungtv.plus	La 2
 ESBC4100003WE	403	sis-global.prod.samsungtv.plus	Clan
 ESBC4100004J1	403	sis-global.prod.samsungtv.plus	24H
 ESBC410000577	403	sis-global.prod.samsungtv.plus	Teledeporte
 ESBC43000013T	200	sis-global.prod.samsungtv.plus	Todo Novelas
-ESBC4700001GR	200	dlir9brl2ge8j.cloudfront.net	duckTV
+ESBC4700001GR	200	sis-global.prod.samsungtv.plus	duckTV
 ESBC4700002TD	200	cdn-ue1-prod.tsv2.amagi.tv	Love the Planet
 ESBC4700003RJ	403	amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv	Teen Vee
 ESBD1100001PQ	200	cdn-uw2-prod.tsv2.amagi.tv	FRANCE 24 FAST
-ESBD130000205	200	d37tco1tcfe7t3.cloudfront.net	Pitufo TV
-ESBD1300003VN	200	d2qb5pmzx6v5zn.cloudfront.net	Corazón
-ESBD1300004IG	200	dujft6o2exhah.cloudfront.net	Azteca Internacional
+ESBD130000205	200	sis-global.prod.samsungtv.plus	Pitufo TV
+ESBD1300003VN	200	sis-global.prod.samsungtv.plus	Corazón
+ESBD1300004IG	200	sis-global.prod.samsungtv.plus	Azteca Internacional
 ESBD1400003QN	200	ee0955cfc8734bdb83822f6c95b681dd.mediatailor.us-east-1.amazonaws.com	Royalworld - Nobleza y Dinastias
 ESBD190000137	200	d2sybdl23b9psq.cloudfront.net	CNN Headlines International
 ESBD230000289	200	sis-global.prod.samsungtv.plus	Vevo Retro
 ESBD2300003S5	200	d38cbzzuvcliot.cloudfront.net	Rabbids : La invasion
-ESBD2300004Y7	200	d2glyu450vvghm.cloudfront.net	Sol Música
+ESBD2300004Y7	200	sis-global.prod.samsungtv.plus	Sol Música
 ESBD2600001ME	403	cdn-uw2-prod.tsv2.amagi.tv	Tennis Channel
 ESBD2900001P9	200	cdn-ue1-prod.tsv2.amagi.tv	World Poker Tour
 ESBD3000002GP	200	dfk2a268yviz9.cloudfront.net	Canal Sur Andalucía
-ESBD3200001EG	200	d23obwy8cjdxix.cloudfront.net	Motorvision
+ESBD3200001EG	200	sis-global.prod.samsungtv.plus	Motorvision
 ESBD3200002V5	200	sis-global.prod.samsungtv.plus	La Abeja Maya
 ESBD3400001AA	200	negociostv-negociostv-samsunges.amagi.tv	Negocios TV
 ESBD36000026Z	403	amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv	CNBC
-ESBD3700001S0	200	d1si3n1st4nkgb.cloudfront.net	DATELINE 24/7
+ESBD3700001S0	200	d176x1zsz6v6uq.cloudfront.net	DATELINE 24/7
 ESBD4100001DU	200	ads.its-newid.net	K-Drama+
 ESBD5100001G0	200	d1swszxzumm47b.cloudfront.net	SuperToons TV
 ESBD800001RJ	200	sis-global.prod.samsungtv.plus	Cine Friki
-ESBD80000288	200	d10po0m73eydog.cloudfront.net	Runtime Acción
-ESBD8000033W	200	d1w4lf3ohil0ad.cloudfront.net	Runtime Comedia
-ESBD800004KU	200	d3c5d9v98rks92.cloudfront.net	Runtime Romance
+ESBD80000288	200	sis-global.prod.samsungtv.plus	Runtime Acción
+ESBD8000033W	200	sis-global.prod.samsungtv.plus	Runtime Comedia
+ESBD800004KU	200	sis-global.prod.samsungtv.plus	Runtime Romance
 FR1000001XP	200	sis-global.prod.samsungtv.plus	SMTOWN
 FR1100001V1	200	sis-global.prod.samsungtv.plus	Passion Bollywood
 FR1100002RF	200	sis-global.prod.samsungtv.plus	AFTER FOOT TV
@@ -1063,7 +1070,7 @@ FR1200002PC	403	amg26630-amg26630c1-amgplt0011.playout.now3.amagi.tv	Quantum Mak
 FR1200003GR	403	amg00771-amg00771c22-amgplt0011.playout.now3.amagi.tv	H2O & Friends
 FR12000040D	200	sis-global.prod.samsungtv.plus	So Foot+
 FR13000020W	403	amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv	100% Cinema
-FR1300003HM	200	d17g2p9a7he1mu.cloudfront.net	TV5 MONDE+ Chefs
+FR1300003HM	200	sis-global.prod.samsungtv.plus	TV5 MONDE+ Chefs
 FR1300004LY	200	amg01935-amg01935c1-amgplt0011.playout.now3.amagi.tv	Tennis+
 FR130000539	200	dragon-tv-fr.fast.rakuten.tv	Dragon TV
 FR1400001VU	403	amg01796-amg01796c6-samsung-fr-3536.playouts.now.amagi.tv	Beyblade
@@ -1077,8 +1084,8 @@ FR1600003GH	200	monstres-creatures-tv-fr.fast.rakuten.tv	Monstres et Créatures 
 FR1700002OZ	200	ads.its-newid.net	NEW KPOP
 FR1700004PK	200	sis-global.prod.samsungtv.plus	Red Bull TV
 FR1800003VF	200	sis-global.prod.samsungtv.plus	Shadowz
-FR1800004EP	200	d1qvkge2x4ev90.cloudfront.net	TV5 Monde Voyage
-FR1800005X0	200	d161b1o6wfc5a3.cloudfront.net	TV5 Monde Info
+FR1800004EP	200	sis-global.prod.samsungtv.plus	TV5 Monde Voyage
+FR1800005X0	200	sis-global.prod.samsungtv.plus	TV5 Monde Info
 FR1800007VM	200	sis-global.prod.samsungtv.plus	Rainy Day Vibes
 FR1800008DB	200	sis-global.prod.samsungtv.plus	Island Vibes
 FR1800009U0	200	sis-global.prod.samsungtv.plus	Ocean Vibes
@@ -1095,6 +1102,7 @@ FR2200002HV	200	d1taupk623zu22.cloudfront.net	Fireplace Vibes
 FR2200004HP	200	sis-global.prod.samsungtv.plus	Masha et Michka
 FR23000013B	200	amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv	Al Jazeera
 FR2400001TP	401	amg00793-amg00793c13-samsung-fr-4053.playouts.now.amagi.tv	Top Gear
+FR2400002YG	200	sis-global.prod.samsungtv.plus	Maya l'abeille
 FR2500001BS	200	sis-global.prod.samsungtv.plus	Cool Summer Channel
 FR2600001PI	200	family-rakuten-tv-fr.fast.rakuten.tv	Famille - Rakuten TV
 FR2600002X9	200	action-rakuten-tv-fr.fast.rakuten.tv	Films d'action - Rakuten TV
@@ -1121,6 +1129,7 @@ FR300032ZK	200	sis-global.prod.samsungtv.plus	IntoCrime
 FR3100002MQ	200	amg27604-amg27604c1-amgplt0011.playout.now3.amagi.tv	INTER 24/7
 FR3100003KZ	200	sis-global.prod.samsungtv.plus	Show ! Variété
 FR3100005MK	200	d1si3n1st4nkgb.cloudfront.net	Les Routes du Paradis
+FR3100006XA	200	48836e6e.wurl.com	Terra Mater Wild
 FR3200001NQ	401	amg00793-amg00793c22-samsung-fr-4776.playouts.now.amagi.tv	BBC Earth
 FR3400002VW	200	dqco14bu26p3z.cloudfront.net	Sky News International
 FR34000032F	403	amg02393-awpg-amg02393c7-samsung-fr-4950.playouts.now.amagi.tv	Ça Chauffe en Cuisine
@@ -1132,9 +1141,9 @@ FR3600004UH	403	amg02393-awpg-amg02393c9-samsung-fr-5245.playouts.now.amagi.tv	L
 FR3600005C7	401	amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv	Voyages & Saveurs
 FR360000680	200	7689426c.wurl.com	Zee One
 FR3600007GW	200	d2o1p4pg7f3vak.cloudfront.net	Alerte Cobra
-FR3700001AG	200	dbxyzkr1bqh0g.cloudfront.net	Box Office Thriller
-FR370000288	200	d66m6snd9dv1e.cloudfront.net	Box Office Action
-FR3700003N4	200	dbhl9xt4ay3lq.cloudfront.net	Box Office Drama
+FR3700001AG	200	sis-global.prod.samsungtv.plus	Box Office Thriller
+FR370000288	200	sis-global.prod.samsungtv.plus	Box Office Action
+FR3700003N4	200	sis-global.prod.samsungtv.plus	Box Office Drama
 FR3700004HZ	200	sis-global.prod.samsungtv.plus	Invitation au voyage
 FR3800005NP	200	d2z8gnr1n056wx.cloudfront.net	Dhar Mann TV
 FR3900001AC	200	d1yfnvvjbfegl.cloudfront.net	CJ ENM K-POP
@@ -1152,8 +1161,8 @@ FR44000015M	403	amg00771-amg00771c5-samsung-fr-11621.playouts.now.amagi.tv	Metal
 FR4600001FK	403	amg01796-amg01796c14-samsung-fr-5846.playouts.now.amagi.tv	Top Sci-Fi
 FR4800002NE	200	do7nccdsswstc.cloudfront.net	Caillou
 FR5000002SW	403	amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv	Tennis Channel
-FR600001I2	200	dn8mc7o4f0o74.cloudfront.net	Incroyables Fortunes
-FR600002ZR	200	ddtlc5lxd6hjc.cloudfront.net	Crimes Enquêtes Faits Divers
+FR600001I2	200	sis-global.prod.samsungtv.plus	Incroyables Fortunes
+FR600002ZR	200	sis-global.prod.samsungtv.plus	Crimes Enquêtes Faits Divers
 FR700001VJ	200	d1570v675fzhld.cloudfront.net	Pocoyo
 FR700002UP	200	dmskmsump4xmr.cloudfront.net	Mission Intervention
 FR7000045E	403	amg01796-amg01796c16-samsung-fr-7084.playouts.now.amagi.tv	Yu-Gi-Oh!
@@ -1184,12 +1193,11 @@ FRBB4600002K5	200	sis-global.prod.samsungtv.plus	Scream'IN
 FRBB4900002D4	200	cdn-uw2-prod.tsv2.amagi.tv	NatureTime
 FRBB49000033R	200	cdn-uw2-prod.tsv2.amagi.tv	Homicide
 FRBB490000412	200	cdn-uw2-prod.tsv2.amagi.tv	Motus
-FRBB50000016B	200	d2fih5ugbu4v3d.cloudfront.net	Runtime
+FRBB50000016B	200	sis-global.prod.samsungtv.plus	Runtime
 FRBC14000010C	200	d1qf1fnbo60xec.cloudfront.net	Tele.Novela
 FRBC2100001YY	200	sis-global.prod.samsungtv.plus	Vevo Pop
 FRBC2100002JA	200	sis-global.prod.samsungtv.plus	Vevo Hip-Hop & R&B
-FRBC3500002E4	403	amg02232-botravail-amg02232c1-samsung-fr-308.playouts.now.amagi.tv	Echappées belles & co
-FRBC3900003ZH	200	d1mdvi698umja9.cloudfront.net	Bons Plans et Arnaques
+FRBC3900003ZH	200	sis-global.prod.samsungtv.plus	Bons Plans et Arnaques
 FRBC3900004DS	200	cdn-ue1-prod.tsv2.amagi.tv	Cap Terre
 FRBC39000050N	403	cdn-uw2-prod.tsv2.amagi.tv	Un Village Français
 FRBC4000001IO	200	d2cl8wi5f8zf1j.cloudfront.net	Destination Nature
@@ -1216,11 +1224,11 @@ FRBD2900001M3	200	cdn-uw2-prod.tsv2.amagi.tv	World Poker Tour
 FRBD300000170	200	sis-global.prod.samsungtv.plus	Ardivision
 FRBD3600001BQ	200	cdn-uw2-prod.tsv2.amagi.tv	Drive TV
 FRBD37000020Y	200	d3ipyp8dvhabux.cloudfront.net	Plus belle la vie
-FRBD3900001QP	200	d1yl6bf4hrzbr0.cloudfront.net	Allociné
+FRBD3900001QP	200	sis-global.prod.samsungtv.plus	Allociné
 FRBD3900005MB	403	amg02393-awpg-amg02393c4-samsung-fr-1103.playouts.now.amagi.tv	Le Meilleur de la TV Réalité
 FRBD39000064E	403	amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv	100% Docs Crime
 FRBD4100001DF	403	amg02393-awpg-amg02393c5-samsung-fr-1100.playouts.now.amagi.tv	Les Anges
-FRBD4100002R7	200	dyc8bdiow0oz1.cloudfront.net	750g
+FRBD4100002R7	200	sis-global.prod.samsungtv.plus	750g
 FRBD410000436	403	amg02393-awpg-amg02393c6-samsung-fr-1161.playouts.now.amagi.tv	Les secrets de nos régions
 FRBD41000051L	403	amg01796-fastmedia-amg01796c1-samsung-fr-1219.playouts.now.amagi.tv	Wasabi
 FRBD4100006OC	200	sis-global.prod.samsungtv.plus	BFM Business
@@ -1232,9 +1240,9 @@ FRBD41000124S	200	ads.its-newid.net	K-Drama+
 FRBD43000016D	403	amg01821-lovetv-amg01821c16-samsung-fr-1295.playouts.now.amagi.tv	Love Crime & History
 FRBD4800001P4	200	sis-global.prod.samsungtv.plus	J'irai dormir chez vous
 FRBD490000195	403	amg00453-reuters-amg00453c1-samsung-fr-2112.playouts.now.amagi.tv	Reuters
-FRBD5100001ZA	200	d3b73b34o7cvkq.cloudfront.net	ADN
+FRBD5100001ZA	200	sis-global.prod.samsungtv.plus	ADN
 FRBD5100002NL	200	d37aiu112stb78.cloudfront.net	SuperToons TV
-FRBD5100003TP	200	d1dzvywp5tcxbn.cloudfront.net	Epicurieux avec Jamy
+FRBD5100003TP	200	sis-global.prod.samsungtv.plus	Epicurieux avec Jamy
 GB1000001G0	200	sis-global.prod.samsungtv.plus	SMTOWN
 GB1000002RV	200	39328386.wurl.com	60 Days in Jail
 GB1100001EB	200	d27cdwalt3313h.cloudfront.net	The Diary Of A CEO
@@ -1250,6 +1258,7 @@ GB1200010DG	200	b4fa97b4.wurl.com	Garden Rescue
 GB1200011U5	200	a257b4ba.wurl.com	Obsessive Compulsive Cleaners
 GB1200012BV	200	64ae5f27.wurl.com	Tattoo Fixers
 GB1200013SK	200	7357b44d.wurl.com	The Cube
+GB1200017W3	403	amg00426-amg00426c31-amgplt0002.playout.now3.amagi.tv	Saturday Kitchen
 GB1300001RX	200	d3rqfxpz96i9tp.cloudfront.net	DW
 GB1400001E4	403	amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv	CURIOSITY Now
 GB1500003S4	403	amg30656-amg30656c2-amgplt0002.playout.now3.amagi.tv	Golf Life
@@ -1291,9 +1300,10 @@ GB2300002AI	200	d3qecywadovut1.cloudfront.net	Tipping Point
 GB2300005ML	200	amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv	Al Jazeera
 GB2400006I0	200	adf47c43.wurl.com	Tiny House Nation
 GB2400007FA	200	dv8lsrd8fecw9.cloudfront.net	Teletubbies
-GB2400008GK	200	d1upcw8nab85tc.cloudfront.net	Dennis and Gnasher
+GB2400008GK	200	sis-global.prod.samsungtv.plus	Dennis and Gnasher
 GB24000118Y	403	amg01487-amg01487c7-amgplt0002.playout.now3.amagi.tv	Wild at Heart
 GB2400012R9	403	amg01487-amg01487c6-amgplt0002.playout.now3.amagi.tv	Red Rock
+GB2400013F6	200	sis-global.prod.samsungtv.plus	Maya The Bee
 GB2500002K0	200	sis-global.prod.samsungtv.plus	Cool Summer Channel
 GB26000118T	403	sis-global.prod.samsungtv.plus	DFB Play TV
 GB2600012R3	200	drama-rakuten-tv-uk.fast.rakuten.tv	Drama Movies - Rakuten TV
@@ -1305,7 +1315,7 @@ GB2600018PD	200	top-movies-rakuten-tv-uk.fast.rakuten.tv	Top Movies - Rakuten TV
 GB2600019ON	200	euronews-live-eng-uk.fast.rakuten.tv	Euronews LIVE
 GB2600020OP	200	comedy-rakuten-tv-uk.fast.rakuten.tv	Comedy Movies - Rakuten TV
 GB2600021LP	200	reality-rakuten-tv-uk.fast.rakuten.tv	Reality - Rakuten TV
-GB2700001R6	200	d1nhni5l2n8hjt.cloudfront.net	Get.Factual
+GB2700001R6	200	sis-global.prod.samsungtv.plus	Get.Factual
 GB2700002F7	403	amg00276-amg00276c17-samsung-gb-3791.playouts.now.amagi.tv	Intervention
 GB2700003KS	403	amg00276-amg00276c15-samsung-gb-3790.playouts.now.amagi.tv	Evolution Earth
 GB2700004BC	403	amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv	Duck Dynasty
@@ -1345,6 +1355,7 @@ GB3100002NB	403	amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv	Wheels & St
 GB32000024G	403	amg00654-itv-amg00654c25-samsung-gb-4838.playouts.now.amagi.tv	British Screen Classics
 GB3200005SO	200	49462cb0735140c28bc403d2e795c438.mediatailor.us-east-1.amazonaws.com	Autentic History
 GB3200006AZ	200	0399329e07734aa184fa23fdf543f0e0.mediatailor.us-east-1.amazonaws.com	Autentic Travel
+GB3200010G3	403	amg02051-amg02051c37-amgplt0002.playout.now3.amagi.tv	5-Minutes Crafts
 GB330000144	200	97bf7b92.wurl.com	RugbyPass TV
 GB3300002NF	200	d3cm8xyrjwa22p.cloudfront.net	Sky News
 GB3400001ND	403	amg01076-amg01076c16-samsung-gb-4793.playouts.now.amagi.tv	Video Game Heroes
@@ -1372,6 +1383,7 @@ GB3900001TM	200	dah0tmei2n9kh.cloudfront.net	CJ ENM K-POP
 GB3900003W4	200	6f6d9a3320fe4fd8a7f149d132618dde.mediatailor.us-east-1.amazonaws.com	Inside Outside
 GB3900004ZS	200	sis-global.prod.samsungtv.plus	Deadliest Roads
 GB4000008O5	401	amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv	Mr Bean Live Action
+GB4000015BP	200	f6fa9489.wurl.com	Graveyard Carz
 GB4000027F	403	amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv	The Graham Norton Show
 GB400003BM	403	amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv	INTRAVEL
 GB4100001E2	200	d1ddvm3xqjvb0d.cloudfront.net	Mark Rober TV
@@ -1434,7 +1446,7 @@ GBBA33000557H	200	samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv	Moviesphere 
 GBBA3300059BU	403	samsunguk-appletree-mytime-samsung-uk-8llea.amagi.tv	MyTime Movie Network
 GBBA3300061ME	403	ldsaaaaaa-realcrime-samsunguk-0cf9a.amagi.tv	Real Crime
 GBBB1000005IO	403	amg00426-amg00426c30-amgplt0002.playout.now3.amagi.tv	Real Wild
-GBBB1500004LG	200	d1si3n1st4nkgb.cloudfront.net	NBC News NOW
+GBBB1500004LG	200	d176x1zsz6v6uq.cloudfront.net	NBC News NOW
 GBBB1600006RS	200	amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv	Are We There Yet?
 GBBB1600008R3	200	amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv	GB News
 GBBB3800005QO	200	amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv	XITE Hits
@@ -1470,7 +1482,7 @@ GBBD1100007AC	200	b6cca454.wurl.com	True Crime UK
 GBBD1100008YW	200	ba3e2e93.wurl.com	FIFA+
 GBBD1100009M9	200	956d0ba0432b40e0b305fa23d29b8d93.mediatailor.us-east-1.amazonaws.com	So…Real
 GBBD1100013BJ	403	536ec699.wurl.com	Zee One
-GBBD1300001WA	200	d144py1prrd7ns.cloudfront.net	Smurf TV
+GBBD1300001WA	200	sis-global.prod.samsungtv.plus	Smurf TV
 GBBD19000026B	200	d2l4tng0wskzvn.cloudfront.net	Trace UK
 GBBD1900008O3	200	d3fzntptkfpmvg.cloudfront.net	CNN Headlines International
 GBBD1900009UD	200	sis-global.prod.samsungtv.plus	Vevo '70s & '80s
@@ -1495,7 +1507,7 @@ GBBD3100006XM	403	sis-global.prod.samsungtv.plus	Sky Mix
 GBBD3200001E2	403	amg01823-earthtouch-amg01823c1-samsung-gb-862.playouts.now.amagi.tv	Earth Touch
 GBBD3200003T6	200	cdn-uw2-prod.tsv2.amagi.tv	Tiny POP
 GBBD3600001NO	200	amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv	CNBC
-GBBD3700001AB	200	d1si3n1st4nkgb.cloudfront.net	DATELINE 24/7
+GBBD3700001AB	200	d176x1zsz6v6uq.cloudfront.net	DATELINE 24/7
 GBBD4100006KV	403	amg00654-itv-amg00654c7-samsung-gb-1168.playouts.now.amagi.tv	Criminal Confessions
 GBBD4100010H1	200	d26ho3zwosxlr5.cloudfront.net	Crime Network
 GBBD4100011RE	200	ads.its-newid.net	K-Drama+
@@ -1625,7 +1637,7 @@ IN4600011RZ	200	sis-global.prod.samsungtv.plus	Bhakti Play
 IN4600012BD	200	cc-r46wc5dtmorhv.akamaized.net	ABP News
 IN460001373	200	sis-global.prod.samsungtv.plus	NH BollyRaga
 IN46000140Q	200	sis-global.prod.samsungtv.plus	NH BollyFlix
-IN4600016DM	504	cc-781sm3dbw07tp.akamaized.net	Rangmanch
+IN4600016DM	200	cc-781sm3dbw07tp.akamaized.net	Rangmanch
 IN460001727	200	sis-global.prod.samsungtv.plus	Dishoom Films
 IN46000184H	200	sis-global.prod.samsungtv.plus	Kings Of Comedy
 IN4600019L1	200	sis-global.prod.samsungtv.plus	Series K BY MBC
@@ -1723,7 +1735,7 @@ IT1200003NR	403	amg26630-amg26630c1-amgplt0007.playout.now3.amagi.tv	Quantum Mak
 IT1200004E6	403	amg00771-amg00771c22-amgplt0007.playout.now3.amagi.tv	H2O & Friends
 IT16000070D	200	9b7788ca.wurl.com	Sportface
 IT1700002R5	200	ads.its-newid.net	NEW KPOP
-IT18000033C	200	dun10g57y9s4x.cloudfront.net	TV5 Monde Info
+IT18000033C	200	sis-global.prod.samsungtv.plus	TV5 Monde Info
 IT18000058K	200	sis-global.prod.samsungtv.plus	Rainy Day Vibes
 IT1800006P9	200	sis-global.prod.samsungtv.plus	Island Vibes
 IT18000076Y	200	sis-global.prod.samsungtv.plus	Ocean Vibes
@@ -1784,6 +1796,7 @@ IT3600001Q1	403	amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv	Crime 
 IT3600004TW	403	amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv	Western Time
 IT3600005AL	403	amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv	Cine Paura
 IT3600007QQ	200	ab0940ba98c04d5d8c92951d48fa060a.mediatailor.us-east-1.amazonaws.com	Soap Turco
+IT36000081V	200	474fb445.wurl.com	Horror Club
 IT3700001R9	200	d1si3n1st4nkgb.cloudfront.net	Forensic Files
 IT3800001XM	200	541203329b1d4b8dacee621a90add2ca.mediatailor.us-east-1.amazonaws.com	Cine Amore
 IT3800003GX	200	ddf4da21875f49698bad2f97280760bf.mediatailor.us-east-1.amazonaws.com	Guardia Costiera
@@ -1799,7 +1812,6 @@ IT4500001L4	200	alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv	Squadra Speciale C
 IT4600001JQ	200	0f2ff865661c43bca6187f590858af32.mediatailor.us-east-1.amazonaws.com	Soap Latino
 IT480000143	200	d2np8lwyhxd27p.cloudfront.net	Teletubbies
 IT500002FD	403	amg02512-amg02512c5-samsung-it-2560.playouts.now.amagi.tv	Duri a morire
-IT500004JK	200	amg00069-amg00069c3-samsung-it-5223.playouts.now.amagi.tv	Romantica
 IT500006GE	200	sis-global.prod.samsungtv.plus	70-80.it
 IT500008CB	403	amg22086-amg22086c1-samsung-it-7477.playouts.now.amagi.tv	3BMeteo
 IT500010AQ	200	de7w7o1fgdvs4.cloudfront.net	Class TV Moda
@@ -1869,10 +1881,10 @@ ITBC3000007XK	200	d28j1jdx26ss52.cloudfront.net	Salto Ostacoli
 ITBC35000016T	200	cdn-uw2-prod.tsv2.amagi.tv	wedotv Big Stories
 ITBC3500002SJ	200	amg02051-soulpublishing-amg02051c5-samsung-it-268.playouts.now.amagi.tv	Teen Vee
 ITBC400001LX	200	d1si3n1st4nkgb.cloudfront.net	Action Movie Channel
-ITBC4000028E	200	d1si3n1st4nkgb.cloudfront.net	NBC News NOW
+ITBC4000028E	200	d176x1zsz6v6uq.cloudfront.net	NBC News NOW
 ITBC400003Y7	200	d1si3n1st4nkgb.cloudfront.net	Brindiamo!
 ITBC400005TF	200	d1si3n1st4nkgb.cloudfront.net	Adventure Sports TV
-ITBC4700001E6	200	dxvpcwoxxgnqg.cloudfront.net	duckTV
+ITBC4700001E6	200	sis-global.prod.samsungtv.plus	duckTV
 ITBC4700002CO	200	italiansport-solocalcio-samsung.amagi.tv	Solocalcio
 ITBC4700003GR	200	cdn-ue1-prod.tsv2.amagi.tv	Love the Planet
 ITBC4700004EQ	200	cdn-uw2-prod.tsv2.amagi.tv	Film Al Femminile - Wedo Movies
@@ -1889,7 +1901,7 @@ ITBD19000097D	200	d2anxhed2mfixb.cloudfront.net	CNN Headlines International
 ITBD1900010JL	200	sis-global.prod.samsungtv.plus	Vevo '70s & '80s
 ITBD2300001MT	200	d11lloskz6zsj6.cloudfront.net	RBN
 ITBD29000015E	200	cdn-ue1-prod.tsv2.amagi.tv	World Poker Tour
-ITBD300001GI	200	d3i87cms5m5yjq.cloudfront.net	Move - Sportivi in Viaggio
+ITBD300001GI	200	sis-global.prod.samsungtv.plus	Move - Sportivi in Viaggio
 ITBD3200001VR	403	amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv	Supercinema
 ITBD3200002DU	403	amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv	Cine Thriller
 ITBD3200003HL	200	d1si3n1st4nkgb.cloudfront.net	Andromeda
@@ -1898,7 +1910,7 @@ ITBD3200005YA	200	d1si3n1st4nkgb.cloudfront.net	Mutant X
 ITBD3200006F0	200	d1si3n1st4nkgb.cloudfront.net	Relic Hunter
 ITBD3200007SZ	200	sis-global.prod.samsungtv.plus	DeAPlaneta Kids
 ITBD3600002PA	403	amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv	CNBC
-ITBD3700001TM	200	d1si3n1st4nkgb.cloudfront.net	DATELINE 24/7
+ITBD3700001TM	200	d176x1zsz6v6uq.cloudfront.net	DATELINE 24/7
 ITBD4100001MG	403	amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv	Elisa di Rivombrosa
 ITBD41000054B	200	ads.its-newid.net	K-Drama+
 ITBD4100007LO	200	dtsorovv03oh7.cloudfront.net	A Tavola
@@ -1963,24 +1975,8 @@ KR900001U5	200	ads.its-newid.net	뽀요TV
 KRAH1801500A	200	livestreaming.hyundaihmall.com	현대홈쇼핑
 KRAH2201403A	200	d2qi7qmhorbt6s.cloudfront.net	SAMSUNG UHD
 KRAH4602000A	200	dtvstreaming.hyundaihmall.com	현대홈쇼핑+Shop
-KRBB420000180	200	d3qf0zy79zrp4j.cloudfront.net	SBS 모범택시
 KRBB4200002MM	200	d3ctbhz5tcf42v.cloudfront.net	SBS 런닝맨
-KRBB4200003ZL	200	d2h2h4q3zieeav.cloudfront.net	SBS 미운 우리 새끼
-KRBB4200004RA	200	d2ji8bbykh38sd.cloudfront.net	SBS 순풍산부인과
-KRBB4200005CK	200	d1ye6lj5le5dh0.cloudfront.net	SBS 내 남자의 여자
-KRBB42000061Z	200	d2yx6lvhcftzo5.cloudfront.net	SBS 야인시대
 KRBB420000769	200	d2a2z5wd1u31lp.cloudfront.net	SBS TV 동물농장
-KRBB4200008PR	200	d303zg8wpbocww.cloudfront.net	SBS 신발 벗고 돌싱포맨
-KRBB4200009C3	200	d2c6t9pg1qq2i.cloudfront.net	나는 솔로
-KRBB42000100V	200	d3ev7kkpknycu4.cloudfront.net	SBS 불타는 청춘
-KRBB4200011RB	200	d2riuzghn0kt92.cloudfront.net	SBS 백종원의 골목식당
-KRBB4200012PV	200	d1qhklddeqjbtp.cloudfront.net	SBS 정글의 법칙
-KRBB4200013L5	200	dp3r8qzh7xgdp.cloudfront.net	SBS 순간포착 세상에 이런일이
-KRBB4200014MY	200	d1rio2j9o2hqtj.cloudfront.net	SBS 패밀리가 떴다
-KRBB420001572	200	dklmpoftme5ly.cloudfront.net	SBS 올인
-KRBB4200016TZ	200	d9elvao5pl5dr.cloudfront.net	SBS 궁금한 이야기 Y
-KRBB4200017HA	200	dm72lx2w7znja.cloudfront.net	SBS 그것이 알고싶다
-KRBB4200018FT	200	dgjj0tcconmvk.cloudfront.net	SBS 생활의 달인
 KRBB5000069BS	200	sis-global.prod.samsungtv.plus	MBC 무한도전
 KRBB5000070U4	200	sis-global.prod.samsungtv.plus	MBC 밤에 피는 꽃
 KRBB50000711L	200	sis-global.prod.samsungtv.plus	MBC 심야괴담회
@@ -1998,7 +1994,7 @@ KRBC20000347	200	sis-global.prod.samsungtv.plus	MBC 안싸우면 다행이야
 KRBC20000418	200	sis-global.prod.samsungtv.plus	MBC 전지적 참견 시점
 KRBC200005H6	200	sis-global.prod.samsungtv.plus	MBC 지붕뚫고 하이킥
 KRBC3200001VC	200	ads.its-newid.net	Animax 요리왕 비룡 더 마스터
-KRBC3200004D1	200	ads.its-newid.net	PLAYGRAM MOVIES
+KRBC3200004D1	200	ads.its-newid.net	MDSSPHERE MOVIES
 KRBC3200005SH	200	ads.its-newid.net	OGN 스타리그
 KRBC3200007D1	200	ads.its-newid.net	맛있는 녀석들
 KRBC3200008M6	200	ads.its-newid.net	TV CHOSUN 식객 허영만의 백반기행
@@ -2111,7 +2107,7 @@ US1700019P7	403	sis-global.prod.samsungtv.plus	CJ ENM K-Novela en Espanol
 US17000208H	200	ads.its-newid.net	BABY SHARK TV
 US170002608	403	sis-global.prod.samsungtv.plus	Mr. Bean Animated
 US1700027JI	403	sis-global.prod.samsungtv.plus	BizaarTV
-US17000281T	000		Donut
+US17000281T	403	sis-global.prod.samsungtv.plus	Donut
 US1700030R0	403	sis-global.prod.samsungtv.plus	The Daily Wire TV
 US1800001D1	403	sis-global.prod.samsungtv.plus	Murder, She Wrote
 US1800002UQ	403	sis-global.prod.samsungtv.plus	El Señor de los Cielos
@@ -2142,7 +2138,7 @@ US1900013Z7	403	sis-global.prod.samsungtv.plus	Wildfire
 US1900014Y2	403	sis-global.prod.samsungtv.plus	Nash Bridges
 US1900015FR	403	sis-global.prod.samsungtv.plus	Anger Management
 US1900021H0	403	sis-global.prod.samsungtv.plus	The Ringer from Spotify
-US190002290	000	sis-global.prod.samsungtv.plus	Carwow
+US190002290	403	sis-global.prod.samsungtv.plus	Carwow
 US1900023QQ	403	sis-global.prod.samsungtv.plus	A&E Alaska State Troopers
 US19000247F	200	sis-global.prod.samsungtv.plus	Lifetime Cine Selecto
 US2000010PO	403	sis-global.prod.samsungtv.plus	Mark Rober TV
@@ -2155,24 +2151,24 @@ US2000016LF	403	sis-global.prod.samsungtv.plus	The Try Guys
 US2000017HT	403	sis-global.prod.samsungtv.plus	Epic Gardening TV
 US2000018YI	200	sis-global.prod.samsungtv.plus	Crunchyroll
 US2000024KD	403	sis-global.prod.samsungtv.plus	Johnny Test
-US2001109K	403	sis-global.prod.samsungtv.plus	Killer Mysteries
-US200111SU	403	sis-global.prod.samsungtv.plus	Van Helsing
+US2001109K	200	sis-global.prod.samsungtv.plus	Killer Mysteries
+US200111SU	200	sis-global.prod.samsungtv.plus	Van Helsing
 US21000043S	403	sis-global.prod.samsungtv.plus	MeatEater
 US2100005WS	403	sis-global.prod.samsungtv.plus	Dhar Mann TV
 US2100006EH	403	sis-global.prod.samsungtv.plus	Challenge Accepted
 US2100007V7	403	sis-global.prod.samsungtv.plus	Smosh
-US2100008CW	200	sis-global.prod.samsungtv.plus	TheSorryGirls TV
+US2100008CW	403	sis-global.prod.samsungtv.plus	TheSorryGirls TV
 US2100010AB	403	sis-global.prod.samsungtv.plus	Brave Wilderness
 US2200001IY	403	sis-global.prod.samsungtv.plus	Curiosity Animales
 US22000020U	403	sis-global.prod.samsungtv.plus	Curiosity Explora
-US2200003ZN	403	sis-global.prod.samsungtv.plus	Curiosity Motores
+US2200003ZN	200	sis-global.prod.samsungtv.plus	Curiosity Motores
 US2200004HD	403	sis-global.prod.samsungtv.plus	Angelique
-US2200005Y2	403	sis-global.prod.samsungtv.plus	Canal ViX
+US2200005Y2	200	sis-global.prod.samsungtv.plus	Canal ViX
 US2200007QG	403	sis-global.prod.samsungtv.plus	Ninja Kidz
 US2300002A6	403	sis-global.prod.samsungtv.plus	Confess by Nosey
 US240000434	403	sis-global.prod.samsungtv.plus	Team Liquid
 US2400013TO	403	sis-global.prod.samsungtv.plus	Business Insider
-US25000063S	200	sis-global.prod.samsungtv.plus	CW Gold
+US25000063S	403	sis-global.prod.samsungtv.plus	CW Gold
 US25000075Y	403	sis-global.prod.samsungtv.plus	CW FOREVER
 US2500008CV	200	sis-global.prod.samsungtv.plus	BET x Tyler Perry Drama
 US2500009PQ	200	d3vmpkkd3o2grv.cloudfront.net	BET x Tyler Perry Comedy
@@ -2191,12 +2187,12 @@ US270000298	403	sis-global.prod.samsungtv.plus	¿Qué Culpa Tiene Fatmagül?
 US27000033D	403	sis-global.prod.samsungtv.plus	Novelas Turcas
 US2700004DX	403	sis-global.prod.samsungtv.plus	beIN Sports XTRA ñ
 US270000585	403	sis-global.prod.samsungtv.plus	Hunter x Hunter
-US27000062U	200	sis-global.prod.samsungtv.plus	JoJo's Bizarre Adventure
+US27000062U	403	sis-global.prod.samsungtv.plus	JoJo's Bizarre Adventure
 US2900004L2	403	sis-global.prod.samsungtv.plus	Luxe Fireplace Vibes
 US2900005NW	403	sis-global.prod.samsungtv.plus	Cozy Vibes
 US2900006IV	403	sis-global.prod.samsungtv.plus	Hot Ones
 US2900007HA	403	sis-global.prod.samsungtv.plus	Death Valley Days
-US2900008FP	403	sis-global.prod.samsungtv.plus	Mythical 24/7
+US2900008FP	200	sis-global.prod.samsungtv.plus	Mythical 24/7
 US2900010UT	403	sis-global.prod.samsungtv.plus	Bondi Rescue
 US2900011CJ	200	sis-global.prod.samsungtv.plus	My Little Pony
 US2900012T8	403	sis-global.prod.samsungtv.plus	Power Rangers
@@ -2206,11 +2202,11 @@ US2900015RO	403	sis-global.prod.samsungtv.plus	Kartoon Channel!
 US29000168D	403	sis-global.prod.samsungtv.plus	Transformers
 US2900017P2	403	sis-global.prod.samsungtv.plus	UFC
 US2900025U8	403	sis-global.prod.samsungtv.plus	Cosmos
-US3000005RS	403	sis-global.prod.samsungtv.plus	Noticias Telemundo Ahora
-US3000006DF	200	sis-global.prod.samsungtv.plus	HerSphere by Lionsgate
-US3000015O4	200	sis-global.prod.samsungtv.plus	Law & Order
+US3000005RS	200	sis-global.prod.samsungtv.plus	Noticias Telemundo Ahora
+US3000006DF	403	sis-global.prod.samsungtv.plus	HerSphere by Lionsgate
+US3000015O4	403	sis-global.prod.samsungtv.plus	Law & Order
 US300002BE	403	sis-global.prod.samsungtv.plus	The Curse of Oak Island
-US300003S3	403	sis-global.prod.samsungtv.plus	Pawn Stars
+US300003S3	200	sis-global.prod.samsungtv.plus	Pawn Stars
 US300062TG	403	sis-global.prod.samsungtv.plus	NESN Nation
 US300065DB	403	sis-global.prod.samsungtv.plus	Love Pets
 US300067FX	403	sis-global.prod.samsungtv.plus	Million Dollar Dream Home
@@ -2233,13 +2229,13 @@ US350000231	403	sis-global.prod.samsungtv.plus	PFL
 US3500004M7	403	sis-global.prod.samsungtv.plus	FilmRise Anime
 US350000563	403	sis-global.prod.samsungtv.plus	GET Comedy
 US3500006VF	403	sis-global.prod.samsungtv.plus	America's Got Talent
-US3500007C4	000		MotoGP Channel
+US3500007C4	403	sis-global.prod.samsungtv.plus	MotoGP Channel
 US35000201T	403	sis-global.prod.samsungtv.plus	Acorn TV Mysteries
 US3600003R7	403	sis-global.prod.samsungtv.plus	The NBA Channel
 US37000017A	403	sis-global.prod.samsungtv.plus	Big 12 Studios
 US3700002P0	403	sis-global.prod.samsungtv.plus	Laff More
 US37000036P	403	sis-global.prod.samsungtv.plus	TruBlu
-US3700004Y0	200	sis-global.prod.samsungtv.plus	Salem News Channel
+US3700004Y0	403	sis-global.prod.samsungtv.plus	Salem News Channel
 US3700005GP	403	sis-global.prod.samsungtv.plus	BBC Drama Classics
 US3700006XE	200	sis-global.prod.samsungtv.plus	Dinos 24/7
 US3700007E4	403	sis-global.prod.samsungtv.plus	BritBox Mysteries
@@ -2261,7 +2257,7 @@ US39000177S	400	cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv	Nick en Espa
 US39000218V	403	sis-global.prod.samsungtv.plus	Ghost Hunters
 US4000004N1	200	sis-global.prod.samsungtv.plus	Letterman TV
 US400001M2	403	sis-global.prod.samsungtv.plus	PGA Tour
-US400002PS	403	sis-global.prod.samsungtv.plus	Animation+
+US400002PS	200	sis-global.prod.samsungtv.plus	Animation+
 US4000033L	403	sis-global.prod.samsungtv.plus	BBC News
 US400006304	403	sis-global.prod.samsungtv.plus	BuzzFeed Celeb
 US4000064JE	403	sis-global.prod.samsungtv.plus	40 y 20
@@ -2269,7 +2265,7 @@ US400006630	403	sis-global.prod.samsungtv.plus	Vevo Country Rewind
 US40000683A	403	sis-global.prod.samsungtv.plus	La Fea Mas Bella
 US4000069ML	200	dsjun3u7vuqqs.cloudfront.net	Una Familia de Diez
 US400221W2	200	sis-global.prod.samsungtv.plus	Scripps Sports Network
-US4100001KP	200	sis-global.prod.samsungtv.plus	Women's Sports Network
+US4100001KP	403	sis-global.prod.samsungtv.plus	Women's Sports Network
 US410000230	403	sis-global.prod.samsungtv.plus	BYUtv
 US4100005NW	403	sis-global.prod.samsungtv.plus	Dawson's Creek
 US41000060J	403	sis-global.prod.samsungtv.plus	WAPA+
@@ -2292,7 +2288,7 @@ US4400006IX	200	sis-global.prod.samsungtv.plus	Series K Edge
 US440000708	403	sis-global.prod.samsungtv.plus	Series K Legacy
 US4500001DM	403	sis-global.prod.samsungtv.plus	RIG TV
 US4500002UB	200	sis-global.prod.samsungtv.plus	Mattel Jr.
-US4500003B0	403	sis-global.prod.samsungtv.plus	Wild West TV
+US4500003B0	200	sis-global.prod.samsungtv.plus	Wild West TV
 US4500004SQ	403	sis-global.prod.samsungtv.plus	Mystery Science Theater 3000
 US4500005Z1	403	sis-global.prod.samsungtv.plus	Roku Sports Channel
 US4500009VV	200	sis-global.prod.samsungtv.plus	BBC Comedy
@@ -2302,9 +2298,9 @@ US4600005ST	403	sis-global.prod.samsungtv.plus	CG MMA En Español
 US4600006R8	403	sis-global.prod.samsungtv.plus	Combate Global MMA
 US46000072L	403	sis-global.prod.samsungtv.plus	XITE Christian Hits
 US4600008JA	403	sis-global.prod.samsungtv.plus	XITE Reggae Vibes
-US4600010KE	403	sis-global.prod.samsungtv.plus	DP World Tour
-US4600011ZJ	403	sis-global.prod.samsungtv.plus	TV One Stars & Stories
-US46000120T	200	sis-global.prod.samsungtv.plus	TV One Crime & Justice
+US4600010KE	200	sis-global.prod.samsungtv.plus	DP World Tour
+US4600011ZJ	403	sis-global.prod.samsungtv.plus	Urban TV + Movies
+US46000120T	403	sis-global.prod.samsungtv.plus	TV One Crime & Justice
 US4700001B4	403	sis-global.prod.samsungtv.plus	SLVR
 US4700002UF	403	sis-global.prod.samsungtv.plus	Stingray Euro Hits
 US4700003DP	403	sis-global.prod.samsungtv.plus	Stingray Movie Music
@@ -2323,7 +2319,7 @@ US5000053YV	200	d1q33ot7gjytx7.cloudfront.net	Family Feud
 US50000551O	403	sis-global.prod.samsungtv.plus	AccuWeather NOW
 US5100003NU	403	sis-global.prod.samsungtv.plus	Pokémon
 US52000010Y	403	sis-global.prod.samsungtv.plus	StarTalk
-US600011Q2	000	sis-global.prod.samsungtv.plus	Formula 1 Channel
+US600011Q2	403	sis-global.prod.samsungtv.plus	Formula 1 Channel
 US700002ZB	403	sis-global.prod.samsungtv.plus	Road Renegades
 US700004OA	200	d2ugl2g2gz1giy.cloudfront.net	WBTV News
 US700005ID	403	sis-global.prod.samsungtv.plus	WWE Superstar Central
@@ -2337,7 +2333,7 @@ US7000229B	403	sis-global.prod.samsungtv.plus	Let's Make A Deal Classic
 US8000024G	403	sis-global.prod.samsungtv.plus	OUTflix Movies
 US800014B2	403	sis-global.prod.samsungtv.plus	Z Nation
 US800015QA	403	sis-global.prod.samsungtv.plus	Telemundo Deportes Ahora
-US900001CX	403	sis-global.prod.samsungtv.plus	Universe: Mysteries Solved
+US900001CX	200	sis-global.prod.samsungtv.plus	Universe: Mysteries Solved
 US900002IH	403	sis-global.prod.samsungtv.plus	Dog the Bounty Hunter
 US9000032J	403	sis-global.prod.samsungtv.plus	Blippi
 US900059YT	403	sis-global.prod.samsungtv.plus	A&E Live PD: Greatest Shifts
@@ -2360,12 +2356,12 @@ USAJ30000148W	403	sis-global.prod.samsungtv.plus	CINEVAULT
 USAJ34000022E	403	sis-global.prod.samsungtv.plus	Nosey
 USAJ340000677	403	sis-global.prod.samsungtv.plus	MagellanTV Wildest
 USAJ3400011A8	403	sis-global.prod.samsungtv.plus	Bloomberg TV+
-USAJ3400012FA	200	sis-global.prod.samsungtv.plus	Game Show Central
+USAJ3400012FA	403	sis-global.prod.samsungtv.plus	Game Show Central
 USAJ3400014LK	200	sis-global.prod.samsungtv.plus	WeatherSpy
 USAJ3400020KC	403	sis-global.prod.samsungtv.plus	Tiny House Nation
 USAJ3504502A	400	cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv	Anime All day
 USAJ3504531A	400	cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv	Pluto TV Pixel World
-USAJ3504545A	000		Cars
+USAJ3504545A	400	cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv	Cars
 USAJ3504547A	400	cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv	The New Detectives
 USAJ3504701A	403	sis-global.prod.samsungtv.plus	Documentary+
 USAJ3504702A	403	sis-global.prod.samsungtv.plus	FailArmy
@@ -2469,18 +2465,18 @@ USBB5200007BY	403	sis-global.prod.samsungtv.plus	Dateline 24/7
 USBB5200019FO	403	sis-global.prod.samsungtv.plus	Lifetime Movie Favorites
 USBB5200020Z0	403	sis-global.prod.samsungtv.plus	Ax Men
 USBB520002173	403	sis-global.prod.samsungtv.plus	Ice Road Truckers
-USBB5200022PY	200	sis-global.prod.samsungtv.plus	Crimes Cults Killers
+USBB5200022PY	403	sis-global.prod.samsungtv.plus	Crimes Cults Killers
 USBB52000236D	403	sis-global.prod.samsungtv.plus	Crime ThrillHer
 USBB52000246M	403	sis-global.prod.samsungtv.plus	Deal Zone
 USBB5200025DO	403	sis-global.prod.samsungtv.plus	Modern Marvels Presented by History
-USBB520002604	200	sis-global.prod.samsungtv.plus	Perform
-USBB5200027Z5	000	sis-global.prod.samsungtv.plus	Torque
+USBB520002604	403	sis-global.prod.samsungtv.plus	Perform
+USBB5200027Z5	403	sis-global.prod.samsungtv.plus	Torque
 USBB5200028MM	403	sis-global.prod.samsungtv.plus	Mysteries Xplored
 USBB800001O7	200	d1l4qxz5lz9v2h.cloudfront.net	PBS Digital Studios
 USBC1000002NP	403	sis-global.prod.samsungtv.plus	World’s Most Evil Killers
 USBC1000004G8	403	sis-global.prod.samsungtv.plus	Shades of Black
 USBC100000630	403	sis-global.prod.samsungtv.plus	Alien Nation by DUST
-USBC100001175	403	sis-global.prod.samsungtv.plus	Horror by ALTER
+USBC100001175	200	sis-global.prod.samsungtv.plus	Horror by ALTER
 USBC10000129R	403	sis-global.prod.samsungtv.plus	Complex TV
 USBC1000017D8	200	d1q60ra9vxbqm1.cloudfront.net	WSOC Charlotte
 USBC1300005T6	403	sis-global.prod.samsungtv.plus	This Old House Makers
@@ -2494,22 +2490,22 @@ USBC2100010OS	403	sis-global.prod.samsungtv.plus	ViX JaJaJa
 USBC2100011WI	403	sis-global.prod.samsungtv.plus	ViX Villanos de Novela
 USBC2100012EJ	403	sis-global.prod.samsungtv.plus	ViX Grandes Parejas
 USBC21000142T	200	sis-global.prod.samsungtv.plus	Home Refresh
-USBC24000134A	200	sis-global.prod.samsungtv.plus	Midsomer Murders
-USBC24000145I	403	sis-global.prod.samsungtv.plus	Estrella Games
+USBC24000134A	403	sis-global.prod.samsungtv.plus	Midsomer Murders
+USBC24000145I	200	sis-global.prod.samsungtv.plus	Estrella Games
 USBC2400015DO	403	sis-global.prod.samsungtv.plus	Hollywire
 USBC240001823	200	sis-global.prod.samsungtv.plus	Brat TV
-USBC2400019EF	200	sis-global.prod.samsungtv.plus	ZooMoo
+USBC2400019EF	403	sis-global.prod.samsungtv.plus	ZooMoo
 USBC24000213P	403	sis-global.prod.samsungtv.plus	Grit Xtra
 USBC24000223S	403	sis-global.prod.samsungtv.plus	ION Mystery
 USBC2400024FN	403	sis-global.prod.samsungtv.plus	Rovr Pets
-USBC2400027NG	000	sis-global.prod.samsungtv.plus	Top Gear
+USBC2400027NG	403	sis-global.prod.samsungtv.plus	Top Gear
 USBC3200001S5	200	d16xlk626t29pt.cloudfront.net	WN Charlotte
-USBC3200019WF	000		NHRA TV
+USBC3200019WF	403	sis-global.prod.samsungtv.plus	NHRA TV
 USBC3200020QF	403	sis-global.prod.samsungtv.plus	Western Bound
 USBC3200022W6	403	sis-global.prod.samsungtv.plus	Tastemade Home
 USBC3600001RQ	403	sis-global.prod.samsungtv.plus	Vevo Country
 USBC3600002EK	403	sis-global.prod.samsungtv.plus	Vevo Hip-Hop
-USBC3600005U9	000		Discovery Turbo TV
+USBC3600005U9	403	sis-global.prod.samsungtv.plus	Discovery Turbo TV
 USBC36000073J	403	sis-global.prod.samsungtv.plus	RetroCrush
 USBC3600008WY	403	sis-global.prod.samsungtv.plus	Vevo Pop
 USBC3600013PC	200	sis-global.prod.samsungtv.plus	PBS Kids
@@ -2548,8 +2544,8 @@ USBD1200007FE	200	sis-global.prod.samsungtv.plus	OuterSphere
 USBD1200009JI	403	sis-global.prod.samsungtv.plus	History & Warfare Now
 USBD12000153A	403	sis-global.prod.samsungtv.plus	pocket.watch Game-On
 USBD120001614	403	sis-global.prod.samsungtv.plus	Conan O'Brien TV
-USBD12000183X	403	sis-global.prod.samsungtv.plus	Billiard TV
-USBD1200020Y4	200	sis-global.prod.samsungtv.plus	Field & Stream
+USBD12000183X	200	sis-global.prod.samsungtv.plus	Billiard TV
+USBD1200020Y4	403	sis-global.prod.samsungtv.plus	Field & Stream
 USBD1200021JM	403	sis-global.prod.samsungtv.plus	Shout! TV
 USBD1200022S1	200	sis-global.prod.samsungtv.plus	The Design Network
 USBD12000239N	403	sis-global.prod.samsungtv.plus	Ryan and Friends
@@ -2563,16 +2559,16 @@ USBD1700006T2	403	sis-global.prod.samsungtv.plus	Storage Wars: LA
 USBD170000771	403	sis-global.prod.samsungtv.plus	Little Women: LA
 USBD1700008H9	403	sis-global.prod.samsungtv.plus	I Survived…
 USBD1700009P5	403	sis-global.prod.samsungtv.plus	World Poker Tour
-USBD17000117B	200	sis-global.prod.samsungtv.plus	MovieSphere
-USBD1700014QU	403	sis-global.prod.samsungtv.plus	N+ Univision 24/7
+USBD17000117B	403	sis-global.prod.samsungtv.plus	MovieSphere
+USBD1700014QU	200	sis-global.prod.samsungtv.plus	N+ Univision 24/7
 USBD1700016X9	403	sis-global.prod.samsungtv.plus	ViX Deportes 24/7
 USBD17000172A	403	sis-global.prod.samsungtv.plus	Las 3 Marías
 USBD1700018II	403	sis-global.prod.samsungtv.plus	Rebelde
-USBD1700019RN	000		RACER Select
-USBD2500012DH	403	sis-global.prod.samsungtv.plus	Ebony TV by Lionsgate
+USBD1700019RN	403	sis-global.prod.samsungtv.plus	RACER Select
+USBD2500012DH	200	sis-global.prod.samsungtv.plus	Ebony TV by Lionsgate
 USBD25000138Y	403	sis-global.prod.samsungtv.plus	At Home with Family Handyman
 USBD25000161U	403	sis-global.prod.samsungtv.plus	ACC Digital Network
-USBD2500017XQ	000		POWERNATION
+USBD2500017XQ	403	sis-global.prod.samsungtv.plus	POWERNATION
 USBD2500018X6	403	sis-global.prod.samsungtv.plus	Stories by AMC
 USBD2500022U5	403	sis-global.prod.samsungtv.plus	Cine Retro
 USBD2700002DU	403	sis-global.prod.samsungtv.plus	Galanes
@@ -2581,7 +2577,7 @@ USBD2700005KL	403	sis-global.prod.samsungtv.plus	Cine de Oro
 USBD2700013UK	403	sis-global.prod.samsungtv.plus	Swamp People
 USBD2700014QW	403	sis-global.prod.samsungtv.plus	Forged In Fire
 USBD27000156I	403	sis-global.prod.samsungtv.plus	Alone By History
-USBD270001633	403	sis-global.prod.samsungtv.plus	Hallmark Movies & More
+USBD270001633	200	sis-global.prod.samsungtv.plus	Hallmark Movies & More
 USBD300002TU	403	sis-global.prod.samsungtv.plus	ION
 USBD300003LK	403	sis-global.prod.samsungtv.plus	ION Plus
 USBD300006A6	403	sis-global.prod.samsungtv.plus	Divorce Court
@@ -2606,7 +2602,7 @@ USBD3300016AK	403	sis-global.prod.samsungtv.plus	Rev and Roll
 USBD3300017XB	403	sis-global.prod.samsungtv.plus	Sensical Makers
 USBD33000180S	403	sis-global.prod.samsungtv.plus	Slugterra
 USBD3300019OU	403	sis-global.prod.samsungtv.plus	All Babies Channel
-USBD3300020PM	403	sis-global.prod.samsungtv.plus	Sonic The Hedgehog
+USBD3300020PM	200	sis-global.prod.samsungtv.plus	Sonic The Hedgehog
 USBD3300021KV	200	sis-global.prod.samsungtv.plus	Stingray Hot Country
 USBD3300022QK	200	sis-global.prod.samsungtv.plus	Stingray Remember the 80s
 USBD3500008IJ	200	sis-global.prod.samsungtv.plus	Stingray Flashback 70s
@@ -2616,7 +2612,7 @@ USBD3500011J3	200	sis-global.prod.samsungtv.plus	Stingray Easy Listening
 USBD35000128A	200	d3p7th0srqyelz.cloudfront.net	Stingray Smooth Jazz
 USBD3500013DG	200	sis-global.prod.samsungtv.plus	Stingray Spa
 USBD35000149S	200	sis-global.prod.samsungtv.plus	Stingray Nothin' But 90s
-USBD3500015R5	200	sis-global.prod.samsungtv.plus	Teletubbies
+USBD3500015R5	403	sis-global.prod.samsungtv.plus	Teletubbies
 USBD3500016NH	200	sis-global.prod.samsungtv.plus	Stingray Today's K-Pop
 USBD3500017CE	200	sis-global.prod.samsungtv.plus	Stingray Romance Latino
 USBD35000180U	200	sis-global.prod.samsungtv.plus	Stingray Classic Rock
@@ -2626,7 +2622,7 @@ USBD3500024YB	403	sis-global.prod.samsungtv.plus	Qello Concerts by Stingray
 USBD3500025GS	200	sis-global.prod.samsungtv.plus	Stingray DJAZZ
 USBD350002623	403	sis-global.prod.samsungtv.plus	Stingray Classica
 USBD3500027DS	403	sis-global.prod.samsungtv.plus	ZenLIFE by Stingray
-USBD3500031F3	403	sis-global.prod.samsungtv.plus	Cheaters
+USBD3500031F3	200	sis-global.prod.samsungtv.plus	Cheaters
 USBD3500032H0	200	sis-global.prod.samsungtv.plus	Movie Hub Action
 USBD3500033U0	403	sis-global.prod.samsungtv.plus	Movie Hub Romance
 USBD3500036HP	200	sis-global.prod.samsungtv.plus	Movie Hub West
@@ -2637,14 +2633,14 @@ USBD3500041ZF	403	sis-global.prod.samsungtv.plus	American Pickers by History
 USBD35000428O	403	sis-global.prod.samsungtv.plus	History 365
 USBD42000073E	200	sis-global.prod.samsungtv.plus	60 Days In by A&E
 USBD4200008RS	200	sis-global.prod.samsungtv.plus	Flipping Nation
-USBD4200009Y4	403	sis-global.prod.samsungtv.plus	Hoarders by A&E
-USBD4200011W4	000		Hagerty
+USBD4200009Y4	200	sis-global.prod.samsungtv.plus	Hoarders by A&E
+USBD4200011W4	403	sis-global.prod.samsungtv.plus	Hagerty
 USBD4200016QR	403	sis-global.prod.samsungtv.plus	PickleballTV
 USBD4200017GS	403	sis-global.prod.samsungtv.plus	PBS Antiques Roadshow
 USBD420002446	403	sis-global.prod.samsungtv.plus	NBC Sports NOW
 USBD42000250Q	403	sis-global.prod.samsungtv.plus	American Crimes
 USBD490000209	200	sis-global.prod.samsungtv.plus	Barbie and Friends
-USBD50000048H	200	d2mshoh3usf646.cloudfront.net	Caillou
+USBD50000048H	403	sis-global.prod.samsungtv.plus	Caillou
 USBD7000017L	403	sis-global.prod.samsungtv.plus	AMC en Español
 USBD70000213	403	sis-global.prod.samsungtv.plus	TMZ
 USBD700003L7	403	sis-global.prod.samsungtv.plus	FOX Weather
@@ -2653,7 +2649,7 @@ USBD700010XU	403	sis-global.prod.samsungtv.plus	Degrassi
 USBD700011RE	200	sis-global.prod.samsungtv.plus	Gravitas Movies
 USBD700012OA	403	sis-global.prod.samsungtv.plus	The Bob Ross Channel
 USBD700013BW	403	sis-global.prod.samsungtv.plus	DraftKings Network
-USBD7000145C	403	sis-global.prod.samsungtv.plus	Comedy Dynamics
+USBD7000145C	200	sis-global.prod.samsungtv.plus	Comedy Dynamics
 USBD700015LK	403	sis-global.prod.samsungtv.plus	Midnight Pulp
 USBD700016JY	403	sis-global.prod.samsungtv.plus	Dove Channel
 USBD700017WC	403	sis-global.prod.samsungtv.plus	Tastemade Travel
