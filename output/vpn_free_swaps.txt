@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-03 16:40 UTC)
-Channels: 2658   geo-blocked (per geo_census.tsv): 991   swapped to a VPN-free copy: 280   still need VPN: 711 (222 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 243, Roku 37
+Samsung TV Plus VPN-free swaps (2026-11-03 22:07 UTC)
+Channels: 2656   geo-blocked (per geo_census.tsv): 989   swapped to a VPN-free copy: 281   still need VPN: 708 (222 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 244, Roku 37
 
-[United States]  swapped 155/472
+[United States]  swapped 156/471
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -10,6 +10,7 @@ By source: Plex 243, Roku 37
   + Acorn TV Mysteries  (Plex 1080p)
   + Alien Nation by DUST  (Plex 1080p)
   + All Reality We TV  (Plex 1080p)
+  + All Weddings We TV  (Plex 1080p)
   + ALLBLK Gems  (Plex 1080p)
   + Always Funny Videos  (Roku 1080p)
   + America's Got Talent  (Roku 1080p)
@@ -169,7 +170,6 @@ By source: Plex 243, Roku 37
     Alfred Hitchcock Presents  (no VPN-free copy)
     ALL ACTION  (no VPN-free copy)
     All Babies Channel  (no VPN-free copy)
-    All Weddings We TV  (no VPN-free copy)
     All-Out Reality  (no VPN-free copy)
     Alone By History  (no VPN-free copy)
     Amazon Live  (no VPN-free copy)
@@ -283,7 +283,6 @@ By source: Plex 243, Roku 37
     Grizzy and the Lemmings  (no VPN-free copy)
     Grjngo  (no VPN-free copy)
     Hagerty  (no VPN-free copy)
-    Halloween Vibes  (no VPN-free copy)
     HappyKids  (no VPN-free copy)
     Historia  (no VPN-free copy)
     History & Warfare Now  (no VPN-free copy)
@@ -476,7 +475,7 @@ By source: Plex 243, Roku 37
     ZooMoo  (no VPN-free copy)
     ¿Qué Culpa Tiene Fatmagül?  (no VPN-free copy)
 
-[Canada]  swapped 17/67
+[Canada]  swapped 17/66
   + CBC News  (Roku 1080p)
   + Deal or No Deal  (Plex 1080p)
   + Fear Factor  (Plex 1080p)
@@ -523,7 +522,6 @@ By source: Plex 243, Roku 37
     Forensic Files  (VPN-free copy, quality unknown)
     Grizzy and the Lemmings  (no VPN-free copy)
     Grjngo  (no VPN-free copy)
-    Halloween Vibes  (no VPN-free copy)
     Hearties  (no VPN-free copy)
     Hollywire  (no VPN-free copy)
     It’s Anime  (VPN-free copy, quality unknown)
