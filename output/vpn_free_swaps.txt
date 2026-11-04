@@ -1,6 +1,6 @@
-Samsung TV Plus VPN-free swaps (2026-11-04 02:47 UTC)
-Channels: 2656   geo-blocked (per geo_census.tsv): 989   swapped to a VPN-free copy: 281   still need VPN: 708 (222 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 244, Roku 37
+Samsung TV Plus VPN-free swaps (2026-11-04 10:03 UTC)
+Channels: 2665   geo-blocked (per geo_census.tsv): 989   swapped to a VPN-free copy: 288   still need VPN: 701 (224 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 244, Roku 44
 
 [United States]  swapped 156/471
   + 21 Jump Street  (Plex 1080p)
@@ -316,7 +316,7 @@ By source: Plex 244, Roku 37
     Law & Order  (VPN-free copy, quality unknown)
     Let's Make A Deal Classic  (no VPN-free copy)
     Life Below Zero  (no VPN-free copy)
-    Lifetime Movie Favorites  (no VPN-free copy)
+    Lifetime Holiday Movie Favorites  (VPN-free copy, quality unknown)
     Little House on the Prairie  (VPN-free copy, quality unknown)
     Localish  (no VPN-free copy)
     Locked Up Abroad  (no VPN-free copy)
@@ -543,7 +543,8 @@ By source: Plex 244, Roku 37
     Vevo Country  (VPN-free copy, quality unknown)
     Vevo Pop  (VPN-free copy, quality unknown)
 
-[United Kingdom]  swapped 32/86
+[United Kingdom]  swapped 33/86
+  + Barça 24H  (Roku 1080p)
   + British Screen Classics  (Plex 1080p)
   + Chaos on Cam  (Plex 1080p)
   + Come Dine With Me  (Plex 1080p)
@@ -578,7 +579,7 @@ By source: Plex 244, Roku 37
   + Wrestling Legends TV  (Plex 1080p)
     5 Cops  (VPN-free copy, quality unknown)
     5 Exploring Britain  (VPN-free copy, quality unknown)
-    5-Minutes Crafts  (no VPN-free copy)
+    5-Minute Crafts  (VPN-free copy only 720p, Samsung 1080p)
     Bundesliga  (no VPN-free copy)
     Catfish  (VPN-free copy, quality unknown)
     Challenge  (no VPN-free copy)
@@ -620,7 +621,6 @@ By source: Plex 244, Roku 37
     Sky Mix  (no VPN-free copy)
     Tennis Channel  (VPN-free copy, quality unknown)
     The Voice Global  (no VPN-free copy)
-    Top Barça  (no VPN-free copy)
     Trevor Noah  (no VPN-free copy)
     U&Laughs  (no VPN-free copy)
     U&Real Heroes  (no VPN-free copy)
@@ -631,7 +631,8 @@ By source: Plex 244, Roku 37
     Wild at Heart  (VPN-free copy, quality unknown)
     Zee One  (no VPN-free copy)
 
-[Germany]  swapped 16/57
+[Germany]  swapped 17/57
+  + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Beyblade  (Plex 1080p)
   + Free Comedy  (Plex 1080p)
@@ -683,14 +684,14 @@ By source: Plex 244, Roku 37
     Teen Nick  (no VPN-free copy)
     Telenovela ZDF  (VPN-free copy, quality unknown)
     Tennis Channel Deutschland  (no VPN-free copy)
-    Top Barça  (no VPN-free copy)
     Top Filme  (no VPN-free copy)
     Top Serien  (no VPN-free copy)
     World of Freesports - WoF  (no VPN-free copy)
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[Austria]  swapped 8/45
+[Austria]  swapped 9/45
+  + Barça 24H  (Roku 1080p)
   + Beyblade  (Plex 1080p)
   + Free Comedy  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
@@ -730,14 +731,14 @@ By source: Plex 244, Roku 37
     Sport 1 Motor  (no VPN-free copy)
     Teen Nick  (no VPN-free copy)
     Telenovela ZDF  (VPN-free copy, quality unknown)
-    Top Barça  (no VPN-free copy)
     Top Filme  (no VPN-free copy)
     Top Serien  (no VPN-free copy)
     World of Freesports - WoF  (no VPN-free copy)
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[Switzerland]  swapped 6/39
+[Switzerland]  swapped 7/39
+  + Barça 24H  (Roku 1080p)
   + Beyblade  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
   + Metal.Rocks  (Plex 1080p)
@@ -771,14 +772,14 @@ By source: Plex 244, Roku 37
     SpongeBob Schwammkopf  (VPN-free copy, quality unknown)
     Sport 1 Motor  (no VPN-free copy)
     Teen Nick  (no VPN-free copy)
-    Top Barça  (no VPN-free copy)
     Top Filme  (no VPN-free copy)
     Top Serien  (no VPN-free copy)
     World of Freesports - WoF  (no VPN-free copy)
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[France]  swapped 14/45
+[France]  swapped 15/45
+  + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Beyblade  (Plex 1080p)
   + Inazuma Eleven  (Plex 1080p)
@@ -820,13 +821,13 @@ By source: Plex 244, Roku 37
     Rolling Stones Takeover  (no VPN-free copy)
     Skyrock  (no VPN-free copy)
     Tennis Channel  (VPN-free copy, quality unknown)
-    Top Barça  (no VPN-free copy)
     Tortues Ninja  (no VPN-free copy)
     Un Village Français  (VPN-free copy, quality unknown)
     Ça Chauffe en Cuisine  (no VPN-free copy)
 
-[Spain]  swapped 15/57
+[Spain]  swapped 16/57
   + Actualidad 360  (Plex 1080p)
+  + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Beyblade  (Plex 1080p)
   + El Mueble  (Plex 1080p)
@@ -881,10 +882,10 @@ By source: Plex 244, Roku 37
     Teen Vee  (no VPN-free copy)
     Teledeporte  (no VPN-free copy)
     Tennis Channel  (VPN-free copy, quality unknown)
-    Top Barça  (no VPN-free copy)
     Video Game Heroes  (no VPN-free copy)
 
-[Italy]  swapped 11/54
+[Italy]  swapped 12/54
+  + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
   + INTER 24/7  (Plex 1080p)
@@ -934,7 +935,6 @@ By source: Plex 244, Roku 37
     Spongebob  (VPN-free copy, quality unknown)
     Storie Criminali  (VPN-free copy, quality unknown)
     Supercinema  (no VPN-free copy)
-    Top Barça  (no VPN-free copy)
     Turbo  (no VPN-free copy)
     Viaggi & Sapori  (no VPN-free copy)
     Video Game Heroes  (no VPN-free copy)
