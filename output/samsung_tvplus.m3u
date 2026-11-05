@@ -1,16 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20261103T171506SQUARE.png" group-title="United States" tvg-chno="1000",NBC News NOW
-https://jmp2.uk/stvp-USBB2200014DK
-#EXTINF:-1 tvg-id="USBC39000171G" tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20261103T171547SQUARE.png" group-title="United States" tvg-chno="1001",ABC News Live
-https://jmp2.uk/stvp-USBC39000171G
-#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20261103T171429SQUARE.png" group-title="United States" tvg-chno="1002",CBS News 24/7
-https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNOW from FOX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20261103T171444SQUARE.png" group-title="United States" tvg-chno="1003",LiveNOW from FOX
-https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="N+ Univision 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20261103T171602SQUARE.png" group-title="United States" tvg-chno="1004",N+ Univision 24/7
-https://jmp2.uk/stvp-USBD1700014QU
+#EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20261104T180635SQUARE.png" group-title="United States" tvg-chno="1000",Top Gear
+https://amg00793-amg00793c5-plex-us-2662.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="US1800019OC" tvg-name="Designated Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20261104T180558SQUARE.png" group-title="United States" tvg-chno="1001",Designated Survivor
+https://amg00353-amg00353c40-plex-us-4695.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-designatedsurvivor-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20261104T180524SQUARE.png" group-title="United States" tvg-chno="1002",Paramount Movie Channel
+https://jmp2.uk/stvp-USAJ26000054W
+#EXTINF:-1 tvg-id="USBD2700013UK" tvg-name="Swamp People" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20261104T180627SQUARE.png" group-title="United States" tvg-chno="1003",Swamp People
+https://jmp2.uk/stvp-USBD2700013UK
+#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20261104T180643SQUARE.png" group-title="United States" tvg-chno="1004",Vevo Country
+https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1 tvg-id="US300068X7" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261103T171625SQUARE.png" group-title="United States" tvg-chno="1005" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Samsung Television Network
 https://jmp2.uk/stvp-US300068X7
+#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20261104T180445SQUARE.png" group-title="United States" tvg-chno="1110",CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1 tvg-id="USBC39000171G" tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20261104T180551SQUARE.png" group-title="United States" tvg-chno="1112",ABC News Live
+https://jmp2.uk/stvp-USBC39000171G
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20261104T180518SQUARE.png" group-title="United States" tvg-chno="1114",NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNOW from FOX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20261104T180507SQUARE.png" group-title="United States" tvg-chno="1116",LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-name="Scripps News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png" group-title="United States" tvg-chno="1119",Scripps News
 https://jmp2.uk/stvp-USBD3000073N
 #EXTINF:-1 tvg-id="USBC1000017D8" tvg-name="WSOC Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png" group-title="United States" tvg-chno="1122",WSOC Charlotte
@@ -83,8 +91,6 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 https://jmp2.uk/stvp-USAJ30000148W
 #EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20260421T133902SQUARE.png" group-title="United States" tvg-chno="1245" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",CINEVAULT: Classics
 https://jmp2.uk/stvp-USBB3200015M8
-#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20260804T045743SQUARE.png" group-title="United States" tvg-chno="1250",Paramount Movie Channel
-https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png" group-title="United States" tvg-chno="1255" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Universal Movies
 https://jmp2.uk/stvp-USBB3200030CG
 #EXTINF:-1 tvg-id="USBD700011RE" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="United States" tvg-chno="1260",Gravitas Movies
@@ -147,8 +153,6 @@ https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-a
 https://jmp2.uk/stvp-US3700005GP
 #EXTINF:-1 tvg-id="US3000015O4" tvg-name="Law & Order" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000015O4_20261008T213610SQUARE.png" group-title="United States" tvg-chno="1530" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Law & Order
 https://jmp2.uk/stvp-US3000015O4
-#EXTINF:-1 tvg-id="US1800019OC" tvg-name="Designated Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20260421T133910SQUARE.png" group-title="United States" tvg-chno="1535",Designated Survivor
-https://amg00353-amg00353c40-plex-us-4695.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-designatedsurvivor-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD300008G1" tvg-name="Bounce XL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260421T133727SQUARE.png" group-title="United States" tvg-chno="1540",Bounce XL
 https://jmp2.uk/stvp-USBD300008G1
 #EXTINF:-1 tvg-id="USBD300022FH" tvg-name="ALLBLK Gems" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20250304T041443SQUARE.png" group-title="United States" tvg-chno="1545",ALLBLK Gems
@@ -347,8 +351,6 @@ https://jmp2.uk/stvp-USBD3500040WX
 https://jmp2.uk/stvp-USBD4200009Y4
 #EXTINF:-1 tvg-id="USBC4400002GF" tvg-name="Duck Dynasty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20250805T005759SQUARE.png" group-title="United States" tvg-chno="1976",Duck Dynasty
 https://amg00276-amg00276c2-plex-ca-5585.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-duckdynasty-plexca/playlist.m3u8
-#EXTINF:-1 tvg-id="USBD2700013UK" tvg-name="Swamp People" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20260421T134147SQUARE.png" group-title="United States" tvg-chno="1978",Swamp People
-https://jmp2.uk/stvp-USBD2700013UK
 #EXTINF:-1 tvg-id="USBD17000051M" tvg-name="Mountain Men" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20260602T091505SQUARE.png" group-title="United States" tvg-chno="1982",Mountain Men
 https://jmp2.uk/stvp-USBD17000051M
 #EXTINF:-1 tvg-id="US4100033DZ" tvg-name="Life Below Zero" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100033DZ_20260421T133639SQUARE.png" group-title="United States" tvg-chno="1983" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Life Below Zero
@@ -555,8 +557,6 @@ https://jmp2.uk/stvp-US700021SM
 https://jmp2.uk/stvp-US1000014I6
 #EXTINF:-1 tvg-id="US600011Q2" tvg-name="Formula 1 Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20260421T143343SQUARE.png" group-title="United States" tvg-chno="2510" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Formula 1 Channel
 https://jmp2.uk/stvp-US600011Q2
-#EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20260421T143428SQUARE.png" group-title="United States" tvg-chno="2515",Top Gear
-https://amg00793-amg00793c5-plex-us-2662.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="US190002290" tvg-name="Carwow" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US190002290_20260804T045822SQUARE.png" group-title="United States" tvg-chno="2516",Carwow
 https://jmp2.uk/stvp-US190002290
 #EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20260117T020411SQUARE.png" group-title="United States" tvg-chno="2520",Torque
@@ -1043,6 +1043,8 @@ https://jmp2.uk/stvp-USBD2500022U5
 https://jmp2.uk/stvp-USBD2700005KL
 #EXTINF:-1 tvg-id="USBD2700004ME" tvg-name="Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="United States" tvg-chno="3975",Como Dice el Dicho
 https://jmp2.uk/stvp-USBD2700004ME
+#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="N+ Univision 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20261104T180604SQUARE.png" group-title="United States" tvg-chno="3987",N+ Univision 24/7
+https://jmp2.uk/stvp-USBD1700014QU
 #EXTINF:-1 tvg-id="USBA3800001E0" tvg-name="Cine Romantico" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" group-title="United States" tvg-chno="3990",Cine Romantico
 https://jmp2.uk/stvp-USBA3800001E0
 #EXTINF:-1 tvg-id="US1700019P7" tvg-name="CJ ENM K-Novela en Espanol" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700019P7_20260804T045518SQUARE.png" group-title="United States" tvg-chno="3991",CJ ENM K-Novela en Espanol
@@ -1095,8 +1097,6 @@ https://jmp2.uk/stvp-USBC3600015GF
 https://jmp2.uk/stvp-USBC3600002EK
 #EXTINF:-1 tvg-id="USBC3900009K5" tvg-name="Vevo R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20260421T141834SQUARE.png" group-title="United States" tvg-chno="4412",Vevo R&B
 https://jmp2.uk/stvp-USBC3900009K5
-#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png" group-title="United States" tvg-chno="4415",Vevo Country
-https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1 tvg-id="US400006630" tvg-name="Vevo Country Rewind" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006630_20260117T020414SQUARE.png" group-title="United States" tvg-chno="4416",Vevo Country Rewind
 https://jmp2.uk/stvp-US400006630
 #EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png" group-title="United States" tvg-chno="4418",Vevo Pop
@@ -1185,14 +1185,16 @@ https://jmp2.uk/stvp-USBA3800004EL
 https://jmp2.uk/stvp-US3600005FR
 #EXTINF:-1 tvg-id="US3600006IN" tvg-name="Christmas Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600006IN_20261102T091154SQUARE.png" group-title="United States" tvg-chno="4592",Christmas Vibes
 https://jmp2.uk/stvp-US3600006IN
-#EXTINF:-1 tvg-id="CA4100007AK" tvg-name="AFV with Alfonso Ribeiro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20261023T223835SQUARE.png" group-title="Canada" tvg-chno="1000",AFV with Alfonso Ribeiro
-https://jmp2.uk/stvp-CA4100007AK
-#EXTINF:-1 tvg-id="CABA800009T5" tvg-name="Haunt TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20261023T223801SQUARE.png" group-title="Canada" tvg-chno="1001",Haunt TV
-https://jmp2.uk/stvp-CABA800009T5
-#EXTINF:-1 tvg-id="CA1500004OB" tvg-name="MovieSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261023T223855SQUARE.png" group-title="Canada" tvg-chno="1002",MovieSphere
-https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexAAAAA-moviesphere-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="CA800004UD" tvg-name="Z Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800004UD_20261023T223909SQUARE.png" group-title="Canada" tvg-chno="1003",Z Nation
-https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
+#EXTINF:-1 tvg-id="CABC2300004A4" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20261104T180914SQUARE.png" group-title="Canada" tvg-chno="1000",Top Gear
+https://amg00793-amg00793c5-plex-us-2662.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="CAAJ2700014EE" tvg-name="FilmRise Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20261104T180753SQUARE.png" group-title="Canada" tvg-chno="1001",FilmRise Action
+https://jmp2.uk/stvp-CAAJ2700014EE
+#EXTINF:-1 tvg-id="CA4700017S7" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20261104T180907SQUARE.png" group-title="Canada" tvg-chno="1002",The First 48
+https://jmp2.uk/stvp-CA4700017S7
+#EXTINF:-1 tvg-id="CA1800005O1" tvg-name="Triton Poker" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1800005O1_20261104T180921SQUARE.png" group-title="Canada" tvg-chno="1003",Triton Poker
+https://amg12058-amg12058c9-plex-us-6127.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-tritonpokercc-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="CABC52000165E" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20261104T180930SQUARE.png" group-title="Canada" tvg-chno="1004",Vevo Country
+https://jmp2.uk/stvp-CABC52000165E
 #EXTINF:-1 tvg-id="CA1400004AE" tvg-name="CTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400004AE_20260421T141158SQUARE.png" group-title="Canada" tvg-chno="1055",CTV News
 https://jmp2.uk/stvp-CA1400004AE
 #EXTINF:-1 tvg-id="CABC2300009KD" tvg-name="CBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20260421T140534SQUARE.png" group-title="Canada" tvg-chno="1060",CBC News
@@ -1237,10 +1239,10 @@ https://jmp2.uk/stvp-CABC23000223U
 https://jmp2.uk/stvp-CA2400002V9
 #EXTINF:-1 tvg-id="CAAJ40000077N" tvg-name="FilmRise Free Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20260701T010156SQUARE.png" group-title="Canada" tvg-chno="1210",FilmRise Free Movies
 https://jmp2.uk/stvp-CAAJ40000077N
-#EXTINF:-1 tvg-id="CAAJ2700014EE" tvg-name="FilmRise Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20261023T223751SQUARE.png" group-title="Canada" tvg-chno="1213",FilmRise Action
-https://jmp2.uk/stvp-CAAJ2700014EE
 #EXTINF:-1 tvg-id="CA1400008DK" tvg-name="Noovo cinéma" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400008DK_20260421T141223SQUARE.png" group-title="Canada" tvg-chno="1215",Noovo cinéma
 https://amg00089-amg00089c12-plex-us-3902.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="CA1500004OB" tvg-name="MovieSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500004OB_20261104T180901SQUARE.png" group-title="Canada" tvg-chno="1230",MovieSphere
+https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexAAAAA-moviesphere-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="CAAJ3400009KT" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400009KT_20260421T141155SQUARE.png" group-title="Canada" tvg-chno="1245" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",CINEVAULT: Classics
 https://jmp2.uk/stvp-CAAJ3400009KT
 #EXTINF:-1 tvg-id="CABD1200001SY" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200001SY_20260616T032306SQUARE.png" group-title="Canada" tvg-chno="1260",Gravitas Movies
@@ -1309,8 +1311,6 @@ https://jmp2.uk/stvp-CA26000068X
 https://jmp2.uk/stvp-CA4700015P1
 #EXTINF:-1 tvg-id="CABB2600009WE" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600009WE_20260421T140509SQUARE.png" group-title="Canada" tvg-chno="1827",Dr. G: Medical Examiner
 https://jmp2.uk/stvp-CABB2600009WE
-#EXTINF:-1 tvg-id="CA4700017S7" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260727T081710SQUARE.png" group-title="Canada" tvg-chno="1832",The First 48
-https://jmp2.uk/stvp-CA4700017S7
 #EXTINF:-1 tvg-id="CA3900025I5" tvg-name="48 Hours" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900025I5_20260901T060211SQUARE.png" group-title="Canada" tvg-chno="1842",48 Hours
 https://jmp2.uk/stvp-CA3900025I5
 #EXTINF:-1 tvg-id="CAAJ2700012PP" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700012PP_20260714T040915SQUARE.png" group-title="Canada" tvg-chno="1859",Forensic Files
@@ -1455,8 +1455,6 @@ https://jmp2.uk/stvp-CA1300004QB
 https://jmp2.uk/stvp-CA110000152
 #EXTINF:-1 tvg-id="CABD1200013IH" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200013IH_20250630T233009SQUARE.png" group-title="Canada" tvg-chno="2448",World Poker Tour
 https://jmp2.uk/stvp-CABD1200013IH
-#EXTINF:-1 tvg-id="CA1800005O1" tvg-name="Triton Poker" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1800005O1_20260721T033237SQUARE.png" group-title="Canada" tvg-chno="2450",Triton Poker
-https://amg12058-amg12058c9-plex-us-6127.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-tritonpokercc-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="CA210000317" tvg-name="MeatEater" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000317_20250819T224301SQUARE.png" group-title="Canada" tvg-chno="2481",MeatEater
 https://jmp2.uk/stvp-CA210000317
 #EXTINF:-1 tvg-id="CA4400001O0" tvg-name="Game & Fish TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4400001O0_20260421T140800SQUARE.png" group-title="Canada" tvg-chno="2483",Game & Fish TV
@@ -1471,8 +1469,6 @@ https://jmp2.uk/stvp-CAAJ34000089L
 https://jmp2.uk/stvp-CA700002VS
 #EXTINF:-1 tvg-id="CA1000004ZW" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000004ZW_20260929T044638SQUARE.png" group-title="Canada" tvg-chno="2508",MotoAmerica TV
 https://jmp2.uk/stvp-CA1000004ZW
-#EXTINF:-1 tvg-id="CABC2300004A4" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20260421T140527SQUARE.png" group-title="Canada" tvg-chno="2515",Top Gear
-https://amg00793-amg00793c5-plex-us-2662.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="CABD1200015FS" tvg-name="RACER Select" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200015FS_20260825T040526SQUARE.png" group-title="Canada" tvg-chno="2530",RACER Select
 https://jmp2.uk/stvp-CABD1200015FS
 #EXTINF:-1 tvg-id="CABD1200016E8" tvg-name="POWERNATION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200016E8_20261013T224434SQUARE.png" group-title="Canada" tvg-chno="2535",POWERNATION
@@ -1489,6 +1485,8 @@ https://jmp2.uk/stvp-CA400003FQ
 https://jmp2.uk/stvp-CA40000064R
 #EXTINF:-1 tvg-id="CABD1700002R4" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20261103T171701SQUARE.png" group-title="Canada" tvg-chno="2620",Conan O'Brien TV
 https://jmp2.uk/stvp-CABD1700002R4
+#EXTINF:-1 tvg-id="CA4100007AK" tvg-name="AFV with Alfonso Ribeiro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20261104T180854SQUARE.png" group-title="Canada" tvg-chno="2621",AFV with Alfonso Ribeiro
+https://jmp2.uk/stvp-CA4100007AK
 #EXTINF:-1 tvg-id="CA2900007ZL" tvg-name="Hot Ones" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900007ZL_20260721T033210SQUARE.png" group-title="Canada" tvg-chno="2622",Hot Ones
 https://jmp2.uk/stvp-CA2900007ZL
 #EXTINF:-1 tvg-id="CA21000060M" tvg-name="Smosh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA21000060M_20261013T224444SQUARE.png" group-title="Canada" tvg-chno="2623",Smosh
@@ -1559,6 +1557,10 @@ https://jmp2.uk/stvp-CA4000007K0
 https://jmp2.uk/stvp-CABC23000035R
 #EXTINF:-1 tvg-id="CA35000044I" tvg-name="FilmRise Horror" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20260303T094706SQUARE.png" group-title="Canada" tvg-chno="3005",FilmRise Horror
 https://jmp2.uk/stvp-CA35000044I
+#EXTINF:-1 tvg-id="CA800004UD" tvg-name="Z Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800004UD_20261104T180936SQUARE.png" group-title="Canada" tvg-chno="3014",Z Nation
+https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8
+#EXTINF:-1 tvg-id="CABA800009T5" tvg-name="Haunt TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20261104T180801SQUARE.png" group-title="Canada" tvg-chno="3045",Haunt TV
+https://jmp2.uk/stvp-CABA800009T5
 #EXTINF:-1 tvg-id="CA47000169X" tvg-name="UnXplained Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA47000169X_20260818T061723SQUARE.png" group-title="Canada" tvg-chno="3060",UnXplained Zone
 https://jmp2.uk/stvp-CA47000169X
 #EXTINF:-1 tvg-id="CAAJ1700002PA" tvg-name="The Asylum" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ1700002PA_20260303T094519SQUARE.png" group-title="Canada" tvg-chno="3070",The Asylum
@@ -1675,8 +1677,6 @@ https://jmp2.uk/stvp-CA4600018HP
 https://jmp2.uk/stvp-CABB26000054K
 #EXTINF:-1 tvg-id="CABB2600004RZ" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20260421T140500SQUARE.png" group-title="Canada" tvg-chno="4363",XITE Just Chill
 https://jmp2.uk/stvp-CABB2600004RZ
-#EXTINF:-1 tvg-id="CABC52000165E" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20260303T094846SQUARE.png" group-title="Canada" tvg-chno="4415",Vevo Country
-https://jmp2.uk/stvp-CABC52000165E
 #EXTINF:-1 tvg-id="CABC52000180Z" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20260303T094849SQUARE.png" group-title="Canada" tvg-chno="4418",Vevo Pop
 https://jmp2.uk/stvp-CABC52000180Z
 #EXTINF:-1 tvg-id="CA1000003PR" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000003PR_20260929T044611SQUARE.png" group-title="Canada" tvg-chno="4443" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",SMTOWN
