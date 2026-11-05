@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-05 13:37 UTC)
-Channels: 2665   geo-blocked (per geo_census.tsv): 989   swapped to a VPN-free copy: 288   still need VPN: 701 (224 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 244, Roku 44
+Samsung TV Plus VPN-free swaps (2026-11-05 20:53 UTC)
+Channels: 2665   geo-blocked (per geo_census.tsv): 989   swapped to a VPN-free copy: 287   still need VPN: 702 (225 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 244, Roku 43
 
-[United States]  swapped 156/471
+[United States]  swapped 155/471
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -118,7 +118,6 @@ By source: Plex 244, Roku 44
   + Supermarket Sweep  (Plex 1080p)
   + SURFER TV  (Plex 1080p)
   + Tastemade  (Plex 1080p)
-  + Tastemade Home  (Roku 1080p)
   + Team USA TV  (Roku 1080p)
   + The Bob Ross Channel  (Roku 1080p)
   + The Conners  (Plex 1080p)
@@ -406,10 +405,11 @@ By source: Plex 244, Roku 44
     Survivor  (VPN-free copy, quality unknown)
     Swamp People  (no VPN-free copy)
     T2  (no VPN-free copy)
+    Tastemade Home  (VPN-free copy, quality unknown)
     Tastemade Travel  (no VPN-free copy)
     Team Liquid  (no VPN-free copy)
     Teen Mom  (VPN-free copy, quality unknown)
-    Telemundo Al Día  (VPN-free copy only 720p, Samsung 1080p)
+    Telemundo Al Día  (VPN-free copy, quality unknown)
     Telemundo Deportes Ahora  (no VPN-free copy)
     Teletubbies  (no VPN-free copy)
     TG Junior  (VPN-free copy, quality unknown)
