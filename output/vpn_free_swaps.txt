@@ -1,4 +1,4 @@
-Samsung TV Plus VPN-free swaps (2026-11-06 01:14 UTC)
+Samsung TV Plus VPN-free swaps (2026-11-06 08:40 UTC)
 Channels: 2665   geo-blocked (per geo_census.tsv): 1000   swapped to a VPN-free copy: 297   still need VPN: 703 (225 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 249, Roku 48
 
