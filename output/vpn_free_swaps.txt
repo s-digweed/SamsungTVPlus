@@ -1,6 +1,6 @@
-Samsung TV Plus VPN-free swaps (2026-11-06 21:49 UTC)
+Samsung TV Plus VPN-free swaps (2026-11-07 01:22 UTC)
 Channels: 2665   geo-blocked (per geo_census.tsv): 1000   swapped to a VPN-free copy: 297   still need VPN: 703 (225 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 249, Roku 48
+By source: Plex 251, Roku 46
 
 [United States]  swapped 165/480
   + 21 Jump Street  (Plex 1080p)
@@ -83,7 +83,7 @@ By source: Plex 249, Roku 48
   + Matched Married Meet  (Plex 1080p)
   + Mayday: Air Disaster  (Plex 1080p)
   + Midnight Pulp  (Plex 1080p)
-  + Midsomer Murders  (Roku 1080p)
+  + Midsomer Murders  (Plex 1080p)
   + Miramax Movie Channel  (Plex 1080p)
   + MotoGP Channel  (Plex 1080p)
   + MovieSphere  (Plex 1080p)
@@ -492,7 +492,7 @@ By source: Plex 249, Roku 48
   + Hell's Kitchen  (Plex 1080p)
   + INFAST  (Plex 1080p)
   + InWonder  (Plex 1080p)
-  + Midsomer Murders  (Roku 1080p)
+  + Midsomer Murders  (Plex 1080p)
   + MovieSphere  (Plex 1080p)
   + Murdoch Mysteries  (Plex 1080p)
   + Noovo cinéma  (Plex 1080p)

@@ -226,7 +226,7 @@ https://jmp2.uk/rok-0141916713c53d074650f14e2c9ff61e.m3u8
 #EXTINF:-1 tvg-id="US1800001D1" tvg-name="Murder, She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20261103T171553SQUARE.png" group-title="United States" tvg-chno="1813" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Murder, She Wrote
 https://jmp2.uk/stvp-US1800001D1
 #EXTINF:-1 tvg-id="USBC24000134A" tvg-name="Midsomer Murders" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20241014T232251SQUARE.png" group-title="United States" tvg-chno="1816",Midsomer Murders
-https://jmp2.uk/rok-d1e4e369eda359c897e1fdfd8286b19b.m3u8
+https://all3media-midsomer-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="US2600027AI" tvg-name="Silent Witness & New Tricks" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600027AI_20261006T051031SQUARE.png" group-title="United States" tvg-chno="1817",Silent Witness & New Tricks
 https://jmp2.uk/stvp-US2600027AI
 #EXTINF:-1 tvg-id="US35000201T" tvg-name="Acorn TV Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260609T035122SQUARE.png" group-title="United States" tvg-chno="1818",Acorn TV Mysteries
@@ -1260,7 +1260,7 @@ https://jmp2.uk/stvp-CA44000025P
 #EXTINF:-1 tvg-id="CAAJ27000159K" tvg-name="FilmRise Western" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20261016T224250SQUARE.png" group-title="Canada" tvg-chno="1408",FilmRise Western
 https://jmp2.uk/stvp-CAAJ27000159K
 #EXTINF:-1 tvg-id="CABC23000056U" tvg-name="Midsomer Murders" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000056U_20260421T141217SQUARE.png" group-title="Canada" tvg-chno="1409",Midsomer Murders
-https://jmp2.uk/rok-d1e4e369eda359c897e1fdfd8286b19b.m3u8
+https://all3media-midsomer-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CA4600001IG" tvg-name="Murdoch Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600001IG_20260818T061700SQUARE.png" group-title="Canada" tvg-chno="1410",Murdoch Mysteries
 https://amg00788-cbc-amg00788c7-plex-ca-6492.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-murdochmysteries-plexca/playlist.m3u8
 #EXTINF:-1 tvg-id="CA2900008Y0" tvg-name="Death Valley Days" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900008Y0_20260421T141127SQUARE.png" group-title="Canada" tvg-chno="1413",Death Valley Days
