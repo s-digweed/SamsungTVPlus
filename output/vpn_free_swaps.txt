@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-08 20:11 UTC)
+Samsung TV Plus VPN-free swaps (2026-11-09 00:03 UTC)
 Channels: 2665   geo-blocked (per geo_census.tsv): 1000   swapped to a VPN-free copy: 297   still need VPN: 703 (225 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 251, Roku 46
 
-[United States]  swapped 165/480
+[United States]  swapped 164/480
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -41,7 +41,6 @@ By source: Plex 251, Roku 46
   + CW FOREVER  (Plex 1080p)
   + CW Gold  (Plex 1080p)
   + Dance Moms  (Plex 1080p)
-  + DangerTV  (Roku 1080p)
   + Deal or No Deal  (Plex 1080p)
   + Degrassi  (Roku 1080p)
   + Designated Survivor  (Plex 1080p)
@@ -254,6 +253,7 @@ By source: Plex 251, Roku 46
     Curiosity Motores  (no VPN-free copy)
     Cutlers Court  (no VPN-free copy)
     Dallas Cowboys Cheer  (no VPN-free copy)
+    DangerTV  (VPN-free copy, quality unknown)
     Dateline 24/7  (VPN-free copy, quality unknown)
     Dawson's Creek  (no VPN-free copy)
     Death Valley Days  (no VPN-free copy)
@@ -484,7 +484,7 @@ By source: Plex 251, Roku 46
     ZooMoo  (no VPN-free copy)
     ¿Qué Culpa Tiene Fatmagül?  (no VPN-free copy)
 
-[Canada]  swapped 17/65
+[Canada]  swapped 18/65
   + CBC News  (Roku 1080p)
   + CTV News  (Plex 1080p)
   + Deal or No Deal  (Plex 1080p)
@@ -500,6 +500,7 @@ By source: Plex 251, Roku 46
   + Stingray Holidayscapes  (Plex 1080p)
   + Top Gear  (Plex 1080p)
   + Triton Poker  (Plex 1080p)
+  + Unsolved Mysteries  (Roku 720p)
   + XITE Country Today  (Plex 1080p)
   + Z Nation  (Roku 1080p)
     48 Hours  (VPN-free copy, quality unknown)
@@ -547,7 +548,6 @@ By source: Plex 251, Roku 46
     The NBA Channel  (VPN-free copy, quality unknown)
     The Pet Collective  (VPN-free copy, quality unknown)
     The Weather Network  (VPN-free copy, quality unknown)
-    Unsolved Mysteries  (VPN-free copy only 720p, Samsung 1080p)
     Vevo Country  (VPN-free copy, quality unknown)
     Vevo Pop  (VPN-free copy, quality unknown)
 

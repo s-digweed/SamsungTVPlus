@@ -356,7 +356,7 @@ https://jmp2.uk/stvp-US4100033DZ
 #EXTINF:-1 tvg-id="USBA300022JX" tvg-name="INFAST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20250513T012654SQUARE.png" group-title="United States" tvg-chno="1984",INFAST
 https://amg00861-amg00861c19-plex-us-3797.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestylehdde-plexus/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3504708A" tvg-name="DangerTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20260421T133435SQUARE.png" group-title="United States" tvg-chno="1986",DangerTV
-https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+https://jmp2.uk/stvp-USAJ3504708A
 #EXTINF:-1 tvg-id="US700007CV" tvg-name="Caught on Tape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20251125T030913SQUARE.png" group-title="United States" tvg-chno="1988",Caught on Tape
 https://jmp2.uk/stvp-US700007CV
 #EXTINF:-1 tvg-id="US700002ZB" tvg-name="Road Renegades" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700002ZB_20260421T134141SQUARE.png" group-title="United States" tvg-chno="1990",Road Renegades
@@ -1316,7 +1316,7 @@ https://jmp2.uk/stvp-CA3900025I5
 #EXTINF:-1 tvg-id="CAAJ2700012PP" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700012PP_20260714T040915SQUARE.png" group-title="Canada" tvg-chno="1859",Forensic Files
 https://jmp2.uk/stvp-CAAJ2700012PP
 #EXTINF:-1 tvg-id="CAAJ27000135F" tvg-name="Unsolved Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260428T032038SQUARE.png" group-title="Canada" tvg-chno="1865",Unsolved Mysteries
-https://jmp2.uk/stvp-CAAJ27000135F
+https://jmp2.uk/rok-4ecf313b40975382b983c183bf7d86f0.m3u8
 #EXTINF:-1 tvg-id="CA2600003M4" tvg-name="BuzzFeed Unsolved" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600003M4_20251110T235230SQUARE.png" group-title="Canada" tvg-chno="1877",BuzzFeed Unsolved
 https://jmp2.uk/stvp-CA2600003M4
 #EXTINF:-1 tvg-id="CA1400006BZ" tvg-name="Noovo Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20260421T141124SQUARE.png" group-title="Canada" tvg-chno="1885",Noovo Crime
