@@ -1,6 +1,6 @@
-Samsung TV Plus VPN-free swaps (2026-11-11 09:16 UTC)
-Channels: 2665   geo-blocked (per geo_census.tsv): 969   swapped to a VPN-free copy: 296   still need VPN: 673 (193 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 251, Roku 45
+Samsung TV Plus VPN-free swaps (2026-11-11 17:27 UTC)
+Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 297   still need VPN: 669 (193 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 252, Roku 45
 
 [United States]  swapped 160/476
   + 21 Jump Street  (Plex 1080p)
@@ -558,8 +558,9 @@ By source: Plex 251, Roku 45
     Vevo Pop  (VPN-free copy, quality unknown)
     Xtreme Outdoor  (no VPN-free copy)
 
-[United Kingdom]  swapped 33/79
+[United Kingdom]  swapped 34/79
   + Barça 24H  (Roku 1080p)
+  + Born to Kill  (Plex 1080p)
   + British Screen Classics  (Plex 1080p)
   + Chaos on Cam  (Plex 1080p)
   + Come Dine With Me  (Plex 1080p)
@@ -598,7 +599,6 @@ By source: Plex 251, Roku 45
     Bundesliga  (no VPN-free copy)
     Catfish  (VPN-free copy, quality unknown)
     Challenge  (no VPN-free copy)
-    Criminal Confessions  (VPN-free copy, quality unknown)
     CURIOSITY Now  (no VPN-free copy)
     Deal or No Deal US  (no VPN-free copy)
     Demand Drama  (no VPN-free copy)
@@ -614,8 +614,6 @@ By source: Plex 251, Roku 45
     Lifetime Movies  (no VPN-free copy)
     LooLoo Kids  (no VPN-free copy)
     Mr Bean Animated  (no VPN-free copy)
-    Now 70's  (no VPN-free copy)
-    Now 90's & 00's  (no VPN-free copy)
     Padel Time TV  (no VPN-free copy)
     Pluto TV Animals  (VPN-free copy, quality unknown)
     Pluto TV Food  (VPN-free copy, quality unknown)
@@ -627,6 +625,8 @@ By source: Plex 251, Roku 45
     Sky Arts  (no VPN-free copy)
     Sky Mix  (no VPN-free copy)
     Tennis Channel  (VPN-free copy, quality unknown)
+    That's 70's  (no VPN-free copy)
+    That's 90s00s  (VPN-free copy, quality unknown)
     The Chase  (no VPN-free copy)
     The Voice Global  (no VPN-free copy)
     Trevor Noah  (no VPN-free copy)
@@ -639,7 +639,7 @@ By source: Plex 251, Roku 45
     Wild at Heart  (VPN-free copy, quality unknown)
     Zee One  (no VPN-free copy)
 
-[Germany]  swapped 17/48
+[Germany]  swapped 17/47
   + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Beyblade  (Plex 1080p)
@@ -680,7 +680,6 @@ By source: Plex 251, Roku 45
     Pluto TV Paranormal  (VPN-free copy, quality unknown)
     Pluto TV Serie  (VPN-free copy, quality unknown)
     Rolling Stones Takeover  (no VPN-free copy)
-    Sport 1 Motor  (no VPN-free copy)
     Telenovela ZDF  (VPN-free copy, quality unknown)
     Tennis Channel Deutschland  (no VPN-free copy)
     Top Filme  (no VPN-free copy)
@@ -689,7 +688,7 @@ By source: Plex 251, Roku 45
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[Austria]  swapped 9/45
+[Austria]  swapped 9/44
   + Barça 24H  (Roku 1080p)
   + Beyblade  (Plex 1080p)
   + Free Comedy  (Plex 1080p)
@@ -727,7 +726,6 @@ By source: Plex 251, Roku 45
     Pluto TV Sitcoms  (VPN-free copy, quality unknown)
     Rolling Stones Takeover  (no VPN-free copy)
     SpongeBob Schwammkopf  (VPN-free copy, quality unknown)
-    Sport 1 Motor  (no VPN-free copy)
     Teen Nick  (no VPN-free copy)
     Telenovela ZDF  (VPN-free copy, quality unknown)
     Top Filme  (no VPN-free copy)
@@ -736,7 +734,7 @@ By source: Plex 251, Roku 45
     ZDF kocht!  (no VPN-free copy)
     ZDF Zuhause  (no VPN-free copy)
 
-[Switzerland]  swapped 7/34
+[Switzerland]  swapped 7/33
   + Barça 24H  (Roku 1080p)
   + Beyblade  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
@@ -764,7 +762,6 @@ By source: Plex 251, Roku 45
     Pluto TV Paranormal  (VPN-free copy, quality unknown)
     Qui Veut Gagner des Millions?  (no VPN-free copy)
     Rolling Stones Takeover  (no VPN-free copy)
-    Sport 1 Motor  (no VPN-free copy)
     Teen Nick  (no VPN-free copy)
     Top Filme  (no VPN-free copy)
     Top Serien  (no VPN-free copy)
