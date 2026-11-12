@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-11 23:43 UTC)
+Samsung TV Plus VPN-free swaps (2026-11-12 04:19 UTC)
 Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 297   still need VPN: 669 (193 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 252, Roku 45
 
-[United States]  swapped 160/476
+[United States]  swapped 161/476
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -41,6 +41,7 @@ By source: Plex 252, Roku 45
   + Curiosity Explora  (Roku 1080p)
   + CW FOREVER  (Plex 1080p)
   + Dance Moms  (Plex 1080p)
+  + DangerTV  (Roku 1080p)
   + Deal or No Deal  (Plex 1080p)
   + Degrassi  (Roku 1080p)
   + Designated Survivor  (Plex 1080p)
@@ -245,7 +246,6 @@ By source: Plex 252, Roku 45
     Curiosity Motores  (no VPN-free copy)
     Cutlers Court  (no VPN-free copy)
     Dallas Cowboys Cheer  (no VPN-free copy)
-    DangerTV  (VPN-free copy, quality unknown)
     Dateline 24/7  (VPN-free copy, quality unknown)
     Dawson's Creek  (no VPN-free copy)
     Deal Zone  (no VPN-free copy)
@@ -480,7 +480,7 @@ By source: Plex 252, Roku 45
     ZooMoo  (no VPN-free copy)
     ¿Qué Culpa Tiene Fatmagül?  (no VPN-free copy)
 
-[Canada]  swapped 21/76
+[Canada]  swapped 20/76
   + CBC News  (Roku 1080p)
   + CraftsyTV  (Plex 1080p)
   + CTV News  (Plex 1080p)
@@ -499,7 +499,6 @@ By source: Plex 252, Roku 45
   + Stingray Holidayscapes  (Plex 1080p)
   + Top Gear  (Plex 1080p)
   + Triton Poker  (Plex 1080p)
-  + Unsolved Mysteries  (Roku 720p)
   + XITE Country Today  (Plex 1080p)
   + Z Nation  (Roku 1080p)
     AFV with Alfonso Ribeiro  (no VPN-free copy)
@@ -553,6 +552,7 @@ By source: Plex 252, Roku 45
     The NBA Channel  (VPN-free copy, quality unknown)
     The Pet Collective  (VPN-free copy, quality unknown)
     The Weather Network  (VPN-free copy, quality unknown)
+    Unsolved Mysteries  (VPN-free copy only 720p, Samsung 1080p)
     Untold Stories of the ER  (VPN-free copy only 720p, Samsung 1080p)
     Vevo Country  (VPN-free copy, quality unknown)
     Vevo Pop  (VPN-free copy, quality unknown)
