@@ -1425,7 +1425,7 @@ https://jmp2.uk/stvp-CA4700011LV
 https://jmp2.uk/stvp-CA1400003R3
 #EXTINF:-1 tvg-id="CA2900012S9" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900012S9_20260727T081716SQUARE.png" group-title="Canada" tvg-chno="2350",UFC
 https://jmp2.uk/stvp-CA2900012S9
-#EXTINF:-1 tvg-id="CA2600001D9" tvg-name="One Championship TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20260421T141225SQUARE.png" group-title="Canada" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=CA2600001D9&drm-type=widevine",One Championship TV
+#EXTINF:-1 tvg-id="CA2600001D9" tvg-name="One Championship TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20260421T141225SQUARE.png" group-title="Canada" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",One Championship TV
 https://jmp2.uk/stvp-CA2600001D9
 #EXTINF:-1 tvg-id="CA3500003OX" tvg-name="PFL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500003OX_20260421T141228SQUARE.png" group-title="Canada" tvg-chno="2354",PFL
 https://jmp2.uk/stvp-CA3500003OX

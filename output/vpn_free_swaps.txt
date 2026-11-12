@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-12 13:14 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 297   still need VPN: 669 (193 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-12 21:06 UTC)
+Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 297   still need VPN: 669 (190 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 252, Roku 45
 
 [United States]  swapped 161/476
@@ -165,7 +165,7 @@ By source: Plex 252, Roku 45
   + Z Nation  (Roku 1080p)
   + ZenLIFE by Stingray  (Plex 1080p)
     40 y 20  (no VPN-free copy)
-    A&E Alaska State Troopers  (VPN-free copy, quality unknown)
+    A&E Alaska State Troopers  (no VPN-free copy)
     A&E Live PD: Greatest Shifts  (VPN-free copy, quality unknown)
     ABC 20/20  (no VPN-free copy)
     ABC News Live  (VPN-free copy, quality unknown)
@@ -300,7 +300,7 @@ By source: Plex 252, Roku 45
     Hunter x Hunter  (no VPN-free copy)
     I Survived…  (no VPN-free copy)
     Ice Road Truckers  (no VPN-free copy)
-    In Depth with Graham Bensinger  (VPN-free copy, quality unknown)
+    In Depth with Graham Bensinger  (no VPN-free copy)
     Intervention by A&E  (no VPN-free copy)
     ION  (VPN-free copy, quality unknown)
     ION Mystery  (no VPN-free copy)
@@ -465,7 +465,7 @@ By source: Plex 252, Roku 45
     Vevo R&B  (VPN-free copy, quality unknown)
     Vevo Rock  (VPN-free copy, quality unknown)
     ViX Deportes 24/7  (no VPN-free copy)
-    WAPA+  (VPN-free copy, quality unknown)
+    WAPA+  (no VPN-free copy)
     Western Bound  (VPN-free copy, quality unknown)
     Wicked Tuna  (VPN-free copy, quality unknown)
     Wild 'N Out  (VPN-free copy, quality unknown)
