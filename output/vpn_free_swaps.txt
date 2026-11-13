@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-12 21:06 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 297   still need VPN: 669 (190 of them kept at Samsung quality instead of a softer copy)
-By source: Plex 252, Roku 45
+Samsung TV Plus VPN-free swaps (2026-11-13 00:59 UTC)
+Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 298   still need VPN: 668 (190 of them kept at Samsung quality instead of a softer copy)
+By source: Plex 253, Roku 45
 
-[United States]  swapped 161/476
+[United States]  swapped 162/476
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -13,6 +13,7 @@ By source: Plex 252, Roku 45
   + All Weddings We TV  (Plex 1080p)
   + ALLBLK Gems  (Plex 1080p)
   + Always Funny Videos  (Roku 1080p)
+  + AMC en Español  (Plex 1080p)
   + America's Got Talent  (Roku 1080p)
   + American Ninja Warrior  (Roku 1080p)
   + Ancient Aliens  (Roku 1080p)
@@ -177,7 +178,6 @@ By source: Plex 252, Roku 45
     All Babies Channel  (no VPN-free copy)
     All-Out Reality  (no VPN-free copy)
     Amazon Live  (no VPN-free copy)
-    AMC en Español  (no VPN-free copy)
     America's Test Kitchen  (VPN-free copy, quality unknown)
     American Crimes  (VPN-free copy, quality unknown)
     American Pickers by History  (no VPN-free copy)
