@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-13 09:27 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 298   still need VPN: 668 (190 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-13 17:22 UTC)
+Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 298   still need VPN: 668 (191 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 253, Roku 45
 
 [United States]  swapped 162/476
@@ -522,7 +522,7 @@ By source: Plex 253, Roku 45
     Corner Gas Channel by CTV  (no VPN-free copy)
     Cosmos  (no VPN-free copy)
     Court TV  (VPN-free copy, quality unknown)
-    Deal Zone  (no VPN-free copy)
+    Deal Zone  (VPN-free copy, quality unknown)
     Death Valley Days  (no VPN-free copy)
     Dhar Mann TV  (no VPN-free copy)
     Donut  (no VPN-free copy)
