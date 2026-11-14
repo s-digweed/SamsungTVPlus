@@ -2,7 +2,7 @@ name: Generate Samsung TV Plus Playlist
 
 on:
   schedule:
-    - cron: '11,44 * * * *'
+    - cron: '3,21,44 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
