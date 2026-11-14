@@ -1,8 +1,8 @@
-Samsung TV Plus VPN-free swaps (2026-11-14 03:07 UTC)
-Channels: 2662   geo-blocked (per geo_census.tsv): 966   swapped to a VPN-free copy: 298   still need VPN: 668 (191 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-14 07:20 UTC)
+Channels: 2661   geo-blocked (per geo_census.tsv): 965   swapped to a VPN-free copy: 298   still need VPN: 667 (191 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 253, Roku 45
 
-[United States]  swapped 162/476
+[United States]  swapped 162/475
   + 21 Jump Street  (Plex 1080p)
   + 4UV  (Plex 1080p)
   + 50 Cent Action  (Plex 1080p)
@@ -427,7 +427,6 @@ By source: Plex 253, Roku 45
     The First 48  (no VPN-free copy)
     The Hill  (no VPN-free copy)
     The Hills/Laguna Beach  (no VPN-free copy)
-    The Hunger Games  (no VPN-free copy)
     The Incredible Dr. Pol  (no VPN-free copy)
     The Jack Hanna Channel  (no VPN-free copy)
     The Judge Judy Channel  (VPN-free copy, quality unknown)
