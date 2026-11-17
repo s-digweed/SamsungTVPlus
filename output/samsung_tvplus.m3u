@@ -4059,7 +4059,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-id="ES4300004JP" tvg-name="Rugby Challenge" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png" group-title="Spain" tvg-chno="4611",Rugby Challenge
 https://jmp2.uk/stvp-ES4300004JP
-#EXTINF:-1 tvg-id="ESBC410000577" tvg-name="Teledeporte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png" group-title="Spain" tvg-chno="4631",Teledeporte
+#EXTINF:-1 tvg-id="ESBC410000577" tvg-name="Teledeporte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png" group-title="Spain" tvg-chno="4631" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Teledeporte
 https://jmp2.uk/stvp-ESBC410000577
 #EXTINF:-1 tvg-id="ES3200003OC" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png" group-title="Spain" tvg-chno="4635",DFB Play TV
 https://jmp2.uk/stvp-ES3200003OC
