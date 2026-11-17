@@ -25,6 +25,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        ref: main            # latest main at job start, not the (stale) commit from when it was queued
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -74,8 +76,12 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update Samsung TV Plus playlist and EPG - $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
-          git pull --rebase origin main || true
-          git push
+          ok=0
+          for i in 1 2 3; do                       # remote moved on? replay our commit on top
+            if git push; then ok=1; break; fi
+            git pull --rebase -X theirs origin main || { git rebase --abort; exit 1; }
+          done
+          [ "$ok" = 1 ] || { echo "Push failed after 3 tries"; exit 1; }
         fi
 
     - name: Upload artifacts
