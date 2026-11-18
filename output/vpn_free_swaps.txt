@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-18 04:00 UTC)
-Channels: 2661   geo-blocked (per geo_census.tsv): 981   swapped to a VPN-free copy: 304   still need VPN: 677 (193 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-18 04:30 UTC)
+Channels: 2676   geo-blocked (per geo_census.tsv): 979   swapped to a VPN-free copy: 304   still need VPN: 675 (192 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 260, Roku 44
 
 [United States]  swapped 164/468
@@ -892,6 +892,7 @@ By source: Plex 260, Roku 44
     3BMeteo  (no VPN-free copy)
     BBC Series  (VPN-free copy, quality unknown)
     Catfish  (VPN-free copy, quality unknown)
+    Christmas Time  (no VPN-free copy)
     Cine Paura  (no VPN-free copy)
     Cine Thriller  (VPN-free copy, quality unknown)
     Cinemalizia  (no VPN-free copy)
@@ -926,13 +927,12 @@ By source: Plex 260, Roku 44
     Real time  (no VPN-free copy)
     Rolling Stones Takeover  (no VPN-free copy)
     Storie Criminali  (VPN-free copy, quality unknown)
-    Supercinema  (no VPN-free copy)
     Turbo  (no VPN-free copy)
     Viaggi & Sapori  (no VPN-free copy)
     Video Game Heroes  (no VPN-free copy)
     Western Time  (no VPN-free copy)
 
-[India]  swapped 5/67
+[India]  swapped 5/65
   + INFAST  (Plex 1080p)
   + INWONDER  (Plex 1080p)
   + NatureTime  (Plex 1080p)
@@ -979,7 +979,6 @@ By source: Plex 260, Roku 44
     That's 90s00s  (no VPN-free copy)
     That's ROCK  (no VPN-free copy)
     Time2Rlx  (no VPN-free copy)
-    Toon Goggles  (VPN-free copy, quality unknown)
     TRACE Sport Stars  (no VPN-free copy)
     Travelxp HD  (no VPN-free copy)
     WedoTV Big Stories  (no VPN-free copy)
@@ -998,7 +997,6 @@ By source: Plex 260, Roku 44
     Zee Comedy Nation  (no VPN-free copy)
     Zee Dil Se  (no VPN-free copy)
     Zee Horror Nights  (no VPN-free copy)
-    Zee News  (no VPN-free copy)
     Zee South Flix  (no VPN-free copy)
 
 [South Korea]  swapped 1/2
