@@ -2153,7 +2153,7 @@ https://jmp2.uk/stvp-GB2700013Y7
 https://jmp2.uk/stvp-GBBD1100008YW
 #EXTINF:-1 tvg-id="GB26000118T" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20251230T031136SQUARE.png" group-title="United Kingdom" tvg-chno="4633",DFB Play TV
 https://jmp2.uk/stvp-GB26000118T
-#EXTINF:-1 tvg-id="GB3500002R8" tvg-name="Bundesliga" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20260512T060044SQUARE.png" group-title="United Kingdom" tvg-chno="4634" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB3500002R8&drm-type=widevine",Bundesliga
+#EXTINF:-1 tvg-id="GB3500002R8" tvg-name="Bundesliga" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20260512T060044SQUARE.png" group-title="United Kingdom" tvg-chno="4634" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Bundesliga
 https://jmp2.uk/stvp-GB3500002R8
 #EXTINF:-1 tvg-id="GB2700012HS" tvg-name="Sky Sports Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20260317T034217SQUARE.png" group-title="United Kingdom" tvg-chno="4635",Sky Sports Classics
 https://jmp2.uk/stvp-GB2700012HS
