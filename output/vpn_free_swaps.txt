@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-25 08:30 UTC)
-Channels: 2669   geo-blocked (per geo_census.tsv): 944   swapped to a VPN-free copy: 313   still need VPN: 631 (145 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-25 09:00 UTC)
+Channels: 2669   geo-blocked (per geo_census.tsv): 944   swapped to a VPN-free copy: 313   still need VPN: 631 (142 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 268, Roku 45
 
 [United States]  swapped 163/459
@@ -606,7 +606,7 @@ By source: Plex 268, Roku 45
     CURIOSITY Now  (no VPN-free copy)
     Deal or No Deal US  (no VPN-free copy)
     Demand Drama  (no VPN-free copy)
-    DFB Play TV  (VPN-free copy, quality unknown)
+    DFB Play TV  (no VPN-free copy)
     Earth Touch  (no VPN-free copy)
     GFN Football  (no VPN-free copy)
     Golf Life  (no VPN-free copy)
@@ -822,7 +822,7 @@ By source: Plex 268, Roku 45
     Crimen & Historia  (VPN-free copy, quality unknown)
     Crimenes Reales  (no VPN-free copy)
     CURIOSITY Now  (no VPN-free copy)
-    DFB Play TV  (VPN-free copy, quality unknown)
+    DFB Play TV  (no VPN-free copy)
     Encantador de Perros  (no VPN-free copy)
     Epic  (no VPN-free copy)
     H2O & Friends  (VPN-free copy, quality unknown)
@@ -866,7 +866,7 @@ By source: Plex 268, Roku 45
     CNBC  (no VPN-free copy)
     Concerto  (no VPN-free copy)
     Crime Time  (no VPN-free copy)
-    DFB Play TV  (VPN-free copy, quality unknown)
+    DFB Play TV  (no VPN-free copy)
     Discovery  (no VPN-free copy)
     DMAX  (no VPN-free copy)
     Duri a morire  (VPN-free copy, quality unknown)
