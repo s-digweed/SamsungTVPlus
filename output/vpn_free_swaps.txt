@@ -1,5 +1,5 @@
-Samsung TV Plus VPN-free swaps (2026-11-25 04:00 UTC)
-Channels: 2676   geo-blocked (per geo_census.tsv): 945   swapped to a VPN-free copy: 313   still need VPN: 632 (146 of them kept at Samsung quality instead of a softer copy)
+Samsung TV Plus VPN-free swaps (2026-11-25 04:30 UTC)
+Channels: 2669   geo-blocked (per geo_census.tsv): 944   swapped to a VPN-free copy: 313   still need VPN: 631 (145 of them kept at Samsung quality instead of a softer copy)
 By source: Plex 268, Roku 45
 
 [United States]  swapped 163/459
@@ -844,7 +844,7 @@ By source: Plex 268, Roku 45
     Tennis Channel  (VPN-free copy, quality unknown)
     Video Game Heroes  (no VPN-free copy)
 
-[Italy]  swapped 12/51
+[Italy]  swapped 12/50
   + Barça 24H  (Roku 1080p)
   + BBC Earth  (Plex 1080p)
   + Hell's Kitchen  (Plex 1080p)
@@ -875,7 +875,6 @@ By source: Plex 268, Roku 45
     Gli Immortali  (no VPN-free copy)
     H2O & Friends  (VPN-free copy, quality unknown)
     HGTV  (no VPN-free copy)
-    Inuyasha  (VPN-free copy, quality unknown)
     Motor1  (no VPN-free copy)
     Mr Bean Animated  (no VPN-free copy)
     NOVE  (no VPN-free copy)
